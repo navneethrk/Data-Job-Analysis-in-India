@@ -1,0 +1,77 @@
+USE [jobanalytics]
+GO
+SELECT * FROM dbo.data_job;
+
+alter table dbo.data_job
+drop column companyinfo_companydescription;
+
+alter table dbo.data_job
+drop column companyinfo_companysize;
+
+SELECT COUNT(companyinfo_companysize_max)
+FROM dbo.data_job;                           #from this we got result as 180 hence only 22.4% of the column has values and rest is all null
+						hence we delete the row
+
+alter table dbo.data_job
+drop column companyinfo_companysize_max;
+
+alter table dbo.data_job
+drop column companyinfo_companylogo,companyinfo_indeedurl,companyinfo_url,description,descriptionhtml,
+externalapplylink,id,postedat,scrapedat,searchinput_country,searchinput_position,url,urlinput;       #removing unnecessary rows
+
+
+USE [jobanalytics];
+GO
+DELETE FROM [dbo].[data_job]		#removing rows with small companies or fake postings
+WHERE reviewscount < 30;
+		
+
+
+ALTER TABLE [dbo].[data_job]
+ADD state NVARCHAR(255);
+
+UPDATE [dbo].[data_job]
+SET state = LTRIM(RTRIM(SUBSTRING(location, CHARINDEX(',', location) + 1, LEN(location)))),
+    location = LTRIM(RTRIM(SUBSTRING(location, 1, CHARINDEX(',', location) - 1)))
+WHERE CHARINDEX(',', location) > 0;
+
+
+delete from [dbo].[data_job]
+where isExpired = 'True'; 	#0 rows affected so we dont need the column
+			
+
+alter table dbo.data_job
+drop column isexpired;
+
+-------------------------------------------------------------------------------------------------------
+
+alter table dbo.dataset_indeed_data_scientist
+drop column companyinfo_companydescription,companyinfo_companysize,
+companyinfo_companysize_max,companyinfo_companylogo,companyinfo_indeedurl,companyinfo_url,description,descriptionhtml,
+externalapplylink,id,postedat,scrapedat,searchinput_country,searchinput_position,url,urlinput;
+
+--------------------------------------------------------------------------------------------------------
+SELECT company,companyinfo_companysize_min,companyinfo_rating,companyinfo_reviewcount,location,positionname,postingdateparsed,rating,reviewscount,salary,state
+INTO dbo.fulldata
+FROM dbo.data_job
+UNION ALL
+SELECT company,companyinfo_companysize_min,companyinfo_rating,companyinfo_reviewcount,location,positionname,postingdateparsed,rating,reviewscount,salary,state
+FROM dbo.dataset_indeed_data_scientist
+UNION ALL
+SELECT company,companyinfo_companysize_min,companyinfo_rating,companyinfo_reviewcount,location,positionname,postingdateparsed,rating,reviewscount,salary,state
+FROM dbo.[dataset_indeed-internship];
+
+
+
+WITH CTE AS (
+    SELECT *,
+           ROW_NUMBER() OVER (ORDER BY (SELECT NULL)) AS rn
+    FROM dbo.fulldata
+)
+UPDATE CTE
+SET role =
+    CASE 
+        WHEN rn BETWEEN 1 AND 517 THEN 'data analyst'
+        WHEN rn BETWEEN 518 AND 968 THEN 'data scientist'
+        WHEN rn BETWEEN 969 AND 1093 THEN 'data analyst intern'
+    END;

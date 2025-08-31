@@ -1,0 +1,887 @@
+﻿company,companySize_min,companyInfo/rating,companyInfo/reviewCount,city,job_name,date_posted,rating,reviewcount,salary,state,role
+Zelis,1001,2.099999905,232,Hyderabad,Data Analysis,2025-08-29T09:05:40.105Z,2.099999905,232,NULL,Telangana,data analyst
+HSBC,10000,4,16009,Pune,Data Analyst / CONSULTANT SPECIALIST,2025-08-29T12:42:13.725Z,4,16009,NULL,Maharashtra,data analyst
+S&P Global,10000,3.900000095,1626,Hyderabad,Data Analyst,2025-08-29T09:14:11.772Z,3.900000095,1626,NULL,Telangana,data analyst
+Lilly,10000,4.099999905,2204,Bengaluru,Data Analyst,2025-08-29T11:54:18.883Z,4.099999905,2204,NULL,Karnataka,data analyst
+UST Global,10000,3.700000048,1046,Pune,Business Analyst – Data Visa & Regulatory Compliance,2025-08-29T13:07:57.294Z,3.700000048,1046,NULL,Maharashtra,data analyst
+Amex,10000,4.099999905,9561,Gurugram,Sr Analyst-Data Analytics,2025-08-29T10:16:22.786Z,4.099999905,9561,NULL,Haryana,data analyst
+Deloitte,10000,3.900000095,13896,Delhi,"Consultant | IT Assurance_Audit | Delhi | IT, Data & Analytics",2025-08-29T12:41:45.740Z,3.900000095,13896,NULL,NULL,data analyst
+Wesco,10000,3.299999952,1792,Bengaluru,Analyst - Business,2025-08-29T12:30:46.528Z,3.299999952,1792,NULL,Karnataka,data analyst
+FedEx AMEA,10000,3.5,61640,Mumbai,Senior Analyst Data Science,2025-08-29T14:02:23.808Z,3.5,61640,NULL,Maharashtra,data analyst
+Signify,10000,3.799999952,331,Bengaluru,Business Analyst,2025-08-29T12:16:01.846Z,3.799999952,331,NULL,Karnataka,data analyst
+HSBC,10000,4,16009,Pune,Business Analyst,2025-08-29T12:43:00.104Z,4,16009,NULL,Maharashtra,data analyst
+bp,10000,3.799999952,5101,Pune,Digital Solution Analyst,2025-08-29T10:48:12.828Z,3.799999952,5101,NULL,Maharashtra,data analyst
+HSBC,10000,4,16009,Pune,Business Analyst/Senior Consultant Specialist,2025-08-29T12:43:00.228Z,4,16009,NULL,Maharashtra,data analyst
+Amgen,10000,4,1840,Hyderabad,Sr. Associate IS Business Analyst-Governance,2025-08-29T11:32:43.155Z,4,1840,NULL,Telangana,data analyst
+Luxoft,10000,4.5,665,Gurugram,Senior Functional Business Analyst,2025-08-29T12:21:38.327Z,4.5,665,NULL,Haryana,data analyst
+Ecolab Inc.,10000,3.5,4184,Bengaluru,Data Quality Analyst,2025-08-29T13:09:16.100Z,3.5,4184,NULL,Karnataka,data analyst
+Innover,1001,4.599999905,31,Bengaluru,Data Analyst - Power Platform/Power Apps,2025-08-29T09:03:47.744Z,4.599999905,31,NULL,Karnataka,data analyst
+Amgen,10000,4,1840,Hyderabad,Senior Manager Data Engineering – Manufacturing Data & Analytics Applications,2025-08-29T11:32:41.903Z,4,1840,NULL,Telangana,data analyst
+Amex,10000,4.099999905,9561,Gurugram,Senior Financial Analyst,2025-08-29T10:16:22.829Z,4.099999905,9561,NULL,Haryana,data analyst
+Amgen,10000,4,1840,Hyderabad,Sr Associate IS Business Systems Analyst,2025-08-29T11:32:42.025Z,4,1840,NULL,Telangana,data analyst
+Genpact,10000,3.799999952,7805,Kolkata,Business Analyst – Transactional Procurement,2025-08-29T11:06:16.805Z,3.799999952,7805,NULL,West Bengal,data analyst
+Colgate-Palmolive,10000,4.300000191,2782,Mumbai,Senior Data Scientist - Global Data and Analytics,2025-08-29T12:34:12.958Z,4.300000191,2782,NULL,Maharashtra,data analyst
+KLA,5001,3.900000095,269,Chennai,"Analyst, Algorithm Research & Development (AI/ML)",2025-08-29T09:03:50.898Z,3.900000095,269,NULL,Tamil Nadu,data analyst
+TELUS Digital -,10000,3.5,3198,Noida,Reporting Analyst,2025-08-29T10:07:03.214Z,3.5,3198,NULL,Uttar Pradesh,data analyst
+Amgen,10000,4,1840,Hyderabad,"Manager, Content Technology Data Analytics",2025-08-29T11:32:41.809Z,4,1840,NULL,Telangana,data analyst
+AtkinsRéalis,10000,3.900000095,2572,Bengaluru,HR Analyst- UK - Process: Job Data Change,2025-08-29T10:39:36.185Z,3.900000095,2572,NULL,Karnataka,data analyst
+Standard Chartered,10000,4.099999905,3266,Bengaluru,"Sr. Rule Coding Analyst, Card Fraud Risk Strategy",2025-08-29T10:37:07.869Z,4.099999905,3266,NULL,Karnataka,data analyst
+Deloitte,10000,3.900000095,13896,Hyderabad,Analyst / Senior Analyst - GPS - Client Account Management - Hyderabad,2025-08-29T13:05:10.880Z,3.900000095,13896,NULL,Telangana,data analyst
+Enphase Energy,1001,3.200000048,101,Bengaluru,Staff Sales Operations Analyst,2025-08-29T12:08:33.595Z,3.200000048,101,NULL,Karnataka,data analyst
+Honeywell,10000,3.700000048,10855,Bengaluru,Data Analyst I,2025-08-29T08:51:10.976Z,3.700000048,10855,NULL,Karnataka,data analyst
+Amgen,10000,4,1840,Hyderabad,"Manager Information Systems, Manufacturing Data Analytics",2025-08-29T11:32:41.652Z,4,1840,NULL,Telangana,data analyst
+Luxoft,10000,4.5,665,Gurugram,Business Analyst - Regulatory Reporting,2025-08-29T06:21:33.007Z,4.5,665,NULL,Haryana,data analyst
+ADCI HYD 20 SEZ - H94,10000,3.5,53749,Bengaluru,"Business Analyst, Sales Abuse Prevention",2025-08-29T07:53:20.154Z,3.5,53748,NULL,Karnataka,data analyst
+Citi,10000,3.900000095,20341,Mumbai,"Officer, Treasury Risk Analyst I - C09",2025-08-29T04:03:06.922Z,3.900000095,20341,NULL,Maharashtra,data analyst
+JPMorganChase,10000,3.900000095,20091,Bengaluru,USPB Digital - Data Analytics - Analytical Solution - Senior Associate,2025-08-29T08:16:54.250Z,3.900000095,20091,NULL,Karnataka,data analyst
+JPMorganChase,10000,3.900000095,20091,Mumbai,Trades Services Analyst,2025-08-29T08:16:47.851Z,3.900000095,20091,NULL,Maharashtra,data analyst
+Wipro Limited,10000,3.799999952,16925,Hyderabad,Business Analyst,2025-08-29T06:18:44.284Z,3.799999952,16925,NULL,Telangana,data analyst
+ADCI HYD 16 SEZ,10000,3.5,53749,Bengaluru,"Business Analyst II, Selling Partner Identity Verification",2025-08-29T07:51:30.856Z,3.5,53748,NULL,Karnataka,data analyst
+JPMorganChase,10000,3.900000095,20091,Bengaluru,Data Scientist Lead - Fraud Analytics,2025-08-29T08:16:54.470Z,3.900000095,20091,NULL,Karnataka,data analyst
+Indegene,1001,3.5,68,Bengaluru,Senior Business Analyst,2025-08-29T04:59:17.104Z,3.5,68,NULL,Karnataka,data analyst
+ASSPL - Telangana,10000,3.5,53749,Bengaluru,"Business Analyst II, AOP",2025-08-29T07:53:24.238Z,3.5,53748,NULL,Karnataka,data analyst
+ADCI - Tamil Nadu,10000,3.5,53749,Chennai,"Business Intelligence Manager, Amazon",2025-08-29T07:52:04.669Z,3.5,53748,NULL,Tamil Nadu,data analyst
+ADCI HYD 16 SEZ,10000,3.5,53749,Bengaluru,"Business Analyst I, TSE Analytics",2025-08-29T07:52:56.181Z,3.5,53748,NULL,Karnataka,data analyst
+Wells Fargo,10000,3.599999905,47318,Bengaluru,Intern Analyst- Advanced Data & Analytics Program,2025-08-29T08:45:15.457Z,3.599999905,47317,NULL,Karnataka,data analyst
+Virtusa,10000,3.700000048,1059,Chennai,Business Analysis Fraud Risk AML,2025-08-29T13:05:16.052Z,3.700000048,1059,NULL,Tamil Nadu,data analyst
+Honeywell,10000,3.700000048,10855,Bengaluru,IT Analyst I,2025-08-29T08:51:19.966Z,3.700000048,10855,NULL,Karnataka,data analyst
+Citi,10000,3.900000095,20341,Mumbai,Business Lead Analyst,2025-08-29T04:03:07.732Z,3.900000095,20341,NULL,Maharashtra,data analyst
+ASSPL - Karnataka,10000,3.5,53749,Bengaluru,"Business Intelligence Engineer, ROW Supply Chain Analytics, Research and Product",2025-08-29T07:53:18.181Z,3.5,53748,NULL,Karnataka,data analyst
+Citi,10000,3.900000095,20341,Mumbai,KYC Reporting Analyst - C11 - MUMBAI,2025-08-29T04:03:07.662Z,3.900000095,20341,NULL,Maharashtra,data analyst
+AstraZeneca,10000,4,2544,Chennai,Senior Consultant -Technical Business Analyst,2025-08-29T08:43:26.843Z,4,2544,NULL,Tamil Nadu,data analyst
+Sanofi,10000,4,5140,Hyderabad,Senior Analyst – Business Analytics,2025-08-29T05:01:27.853Z,4,5140,NULL,Telangana,data analyst
+ASSPL - Karnataka,10000,3.5,53749,Bengaluru,"Business Intelligence Engineer, ROW Supply Chain Analytics, Research and Product",2025-08-29T07:53:18.181Z,3.5,53748,NULL,Karnataka,data analyst
+JPMorganChase,10000,3.900000095,20091,Bengaluru,Data Scientist Lead - Fraud Analytics,2025-08-29T08:16:54.470Z,3.900000095,20091,NULL,Karnataka,data analyst
+ADCI - Tamil Nadu,10000,3.5,53749,Chennai,"Business Intelligence Manager, Amazon",2025-08-29T07:52:04.669Z,3.5,53748,NULL,Tamil Nadu,data analyst
+Indegene,1001,3.5,68,Bengaluru,Senior Business Analyst,2025-08-29T04:59:17.104Z,3.5,68,NULL,Karnataka,data analyst
+Accenture,10000,4,28094,Hyderabad,Digital Content Management Analyst,2025-08-29T01:16:23.180Z,4,28094,NULL,Telangana,data analyst
+Thermo Fisher Scientific,10000,3.400000095,5326,Bengaluru,Data Quality and Testing Analyst – CIS IT Reporting & DATASCAPE,2025-08-29T00:05:07.131Z,3.400000095,5326,NULL,Karnataka,data analyst
+Accenture,10000,4,28094,Bengaluru,Business Analyst,2025-08-29T01:16:18.547Z,4,28094,NULL,Karnataka,data analyst
+PayPal,10000,3.799999952,1944,Bengaluru,"Sr Analyst, Data Analytics",2025-08-29T00:01:43.109Z,3.799999952,1944,NULL,Karnataka,data analyst
+Ameriprise India,10000,3.700000048,1621,Noida,Business Analyst - Marketing Operations,2025-08-29T01:54:15.527Z,3.700000048,1621,NULL,Uttar Pradesh,data analyst
+ADCI HYD 16 SEZ,10000,3.5,53749,Bengaluru,"Business Analyst II, Selling Partner Identity Verification",2025-08-29T07:51:30.856Z,3.5,53748,NULL,Karnataka,data analyst
+ADCI HYD 20 SEZ - H94,10000,3.5,53749,Bengaluru,"Business Analyst, Sales Abuse Prevention",2025-08-29T07:53:20.154Z,3.5,53748,NULL,Karnataka,data analyst
+AstraZeneca,10000,4,2544,Chennai,Senior Consultant -Technical Business Analyst,2025-08-29T08:43:26.843Z,4,2544,NULL,Tamil Nadu,data analyst
+ADCI - Karnataka,10000,3.5,53749,Bengaluru,"Business Intelligence Engineer, Last Mile Analytics",2025-08-29T07:52:18.423Z,3.5,53748,NULL,Karnataka,data analyst
+ConvergeOne,1001,2.700000048,111,Hyderabad,Business Analyst,2025-08-29T01:49:19.127Z,2.700000048,111,NULL,Telangana,data analyst
+PayPal,10000,3.799999952,1944,Bengaluru,"Analyst, Data Analytics",2025-08-29T00:01:43.200Z,3.799999952,1944,NULL,Karnataka,data analyst
+Sanofi,10000,4,5140,Hyderabad,Senior Analyst – Business Analytics,2025-08-29T05:01:27.853Z,4,5140,NULL,Telangana,data analyst
+Ameriprise India,10000,3.700000048,1621,Noida,Senior Business Analyst,2025-08-29T01:54:16.140Z,3.700000048,1621,NULL,Uttar Pradesh,data analyst
+Ameriprise India,10000,3.700000048,1621,Gurugram,Risk Analyst IND,2025-08-29T01:54:15.282Z,3.700000048,1621,NULL,Haryana,data analyst
+Standard Chartered,10000,4.099999905,3266,Bengaluru,"Credit Analyst, Risk",2025-08-29T10:36:50.011Z,4.099999905,3266,NULL,Karnataka,data analyst
+Bechtel,10000,4.099999905,3566,Delhi,Business Analyst,2025-08-28T15:29:20.518Z,4.099999905,3566,NULL,Delhi,data analyst
+"Arrow Electronics, Inc.",10000,3.400000095,1407,Bengaluru,Power BI Reporting Engineer (Techno-functional),2025-08-28T19:33:26.500Z,3.400000095,1407,NULL,Karnataka,data analyst
+Cencora,10000,3.299999952,2558,Pune,Customer Experience Analyst II,2025-08-28T20:36:17.807Z,3.299999952,2557,NULL,Maharashtra,data analyst
+Target,10000,3.5,79140,Bengaluru,Sr Analyst PRICING OPERATIONS,2025-08-28T19:08:02.326Z,3.5,79139,NULL,Karnataka,data analyst
+Ameriprise India,10000,3.700000048,1621,Noida,Lead Business Analyst,2025-08-29T01:54:14.195Z,3.700000048,1621,NULL,Uttar Pradesh,data analyst
+Barclays,10000,3.900000095,6857,Chennai,Analyst Macro Product Control,2025-08-28T21:50:31.754Z,3.900000095,6857,NULL,Tamil Nadu,data analyst
+Cargill,10000,3.700000048,6296,Bengaluru,"Consultant, Data Analytics & Reporting",2025-08-28T20:32:27.554Z,3.700000048,6296,NULL,Karnataka,data analyst
+Target,10000,3.5,79140,Bengaluru,Data Analyst,2025-08-28T19:08:02.899Z,3.5,79139,NULL,Karnataka,data analyst
+Johnson Controls,10000,3.599999905,8631,Pune,Data Quality Analyst,2025-08-28T17:46:46.261Z,3.599999905,8631,NULL,Maharashtra,data analyst
+Lowe's,NULL,NULL,NULL,Bengaluru,IND - Analyst - Vendor Performance,2025-08-28T17:23:27.018Z,3.400000095,59795,NULL,Karnataka,data analyst
+Bristol-Myers Squibb,10000,4.099999905,2311,Hyderabad,HR Data Science Analyst II,2025-08-28T18:20:43.398Z,4.099999905,2311,NULL,Telangana,data analyst
+Cencora,10000,3.299999952,2558,Pune,Customer Experience Analyst I,2025-08-28T20:36:17.742Z,3.299999952,2557,NULL,Maharashtra,data analyst
+FIS Global,10000,3.400000095,2796,Chennai,Business Systems Analyst Specialist,2025-08-28T17:24:12.772Z,3.400000095,2796,NULL,Tamil Nadu,data analyst
+Amex,10000,4.099999905,9561,Gurugram,Analyst-Data Science,2025-08-27T16:16:25.712Z,4.099999905,9561,NULL,Haryana,data analyst
+Target,10000,3.5,79140,Bengaluru,Sr Analyst PRICING OPERATIONS,2025-08-28T19:08:02.326Z,3.5,79139,NULL,Karnataka,data analyst
+Reinsurance Group of America,1001,4,62,Andheri East,Consultant - Data Analyst,2025-08-28T08:56:34.529Z,4,62,NULL,"Mumbai, Maharashtra",data analyst
+Microsoft,10000,4.199999809,8820,Hyderabad,Data Analytics,2025-08-28T12:45:18.100Z,4.199999809,8820,NULL,Telangana,data analyst
+Optum,10000,3.299999952,6942,Noida,Data Analyst,2025-08-27T16:50:17.792Z,3.299999952,6942,NULL,Uttar Pradesh,data analyst
+Akamai,5001,4.099999905,263,India,Services Analyst II,2025-08-28T18:35:23.382Z,4.099999905,263,NULL,NULL,data analyst
+Russell Investments,1001,3.700000048,79,Mumbai,Senior Analyst,2025-08-28T18:50:15.242Z,3.700000048,79,NULL,Maharashtra,data analyst
+Kimberly-Clark,10000,4.099999905,3676,Bengaluru,Sr Data & Analytics Business Analyst,2025-08-27T20:13:54.930Z,4.099999905,3676,NULL,Karnataka,data analyst
+General Mills,10000,3.799999952,3090,Powai,D&T Analyst I – Business Intelligence,2025-08-28T16:14:52.361Z,3.799999952,3090,NULL,"Mumbai, Maharashtra",data analyst
+ACV Auctions,1001,3.299999952,212,Chennai,Procurement Analyst I,2025-08-28T20:48:01.579Z,3.299999952,212,NULL,Tamil Nadu,data analyst
+Continental,10000,4,3379,Faridabad,"Manager Product,Pricing,BI",2025-08-28T15:41:51.619Z,4,3379,NULL,Haryana,data analyst
+Aon Corporation,10000,3.700000048,5048,Bengaluru,Business Analyst,2025-08-28T17:23:38.833Z,3.700000048,5048,NULL,Karnataka,data analyst
+Citi,10000,3.900000095,20341,Mumbai,HR Core Operations Support Intermediate Analyst,2025-08-28T04:02:57.980Z,3.900000095,20341,NULL,Maharashtra,data analyst
+ADCI MAA 15 SEZ,10000,3.5,53749,Bengaluru,"Business Research Analyst - II, RBS Tech",2025-08-28T07:51:18.516Z,3.5,53748,NULL,Karnataka,data analyst
+Lowe's,NULL,NULL,NULL,Bengaluru,IND-Analyst BA_Digital Category Experience,2025-08-27T23:25:51.726Z,3.400000095,59795,NULL,Karnataka,data analyst
+Wipro Limited,10000,3.799999952,16925,Hyderabad,Business Analyst,2025-08-28T12:18:46.553Z,3.799999952,16925,NULL,Telangana,data analyst
+FIS Global,10000,3.400000095,2796,Hyderabad,Business Analyst Senior,2025-08-28T11:24:13.191Z,3.400000095,2796,NULL,Telangana,data analyst
+LatentView Analytics,51,3.799999952,48,Chennai,Senior Analyst,2025-08-28T13:11:26.920Z,3.799999952,48,NULL,Tamil Nadu,data analyst
+PayU,1001,3.799999952,81,Gurugram,Business Analyst - Risk,2025-08-28T14:36:35.317Z,3.799999952,81,NULL,Haryana,data analyst
+Mastercard,10000,4,817,Pune,"Analyst, Risk Management",2025-08-27T16:48:29.414Z,4,817,NULL,Maharashtra,data analyst
+FERRERO,10000,3.900000095,1161,Chennai,Regional Business Analyst South1,2025-08-28T13:58:49.869Z,3.900000095,1161,NULL,Tamil Nadu,data analyst
+Adobe,10000,4.199999809,858,Noida,Advanced Analytics & Reporting Analyst 3,2025-08-28T11:45:25.061Z,4.199999809,858,NULL,Uttar Pradesh,data analyst
+Model N,NULL,3.5,30,Hyderabad,"Data Analyst- Customer Analytics (Power BI, Python, Azure)",2025-08-28T12:16:40.279Z,3.5,30,NULL,Telangana,data analyst
+"Milestone Technologies, Inc.",1001,3.400000095,303,Remote,Lead Business Analyst - M365 & SharePoint Migrations,2025-08-28T03:04:45.901Z,3.400000095,303,NULL,NULL,data analyst
+Dentsu,10000,3.599999905,355,Chennai,Senior Analyst - Paid Search,2025-08-28T14:13:34.858Z,3.599999905,355,NULL,Tamil Nadu,data analyst
+CGI,10000,3.599999905,4033,Bengaluru,Senior Data & Analytics Engineer,2025-08-28T20:24:50.082Z,3.599999905,4033,NULL,Karnataka,data analyst
+PayU,1001,3.799999952,81,Gurugram,Business Analyst - Risk,2025-08-28T14:36:35.317Z,3.799999952,81,NULL,Haryana,data analyst
+Luxoft,10000,4.5,665,Bengaluru,Senior Business Analyst - Credit Risk,2025-08-28T12:21:42.641Z,4.5,665,NULL,Karnataka,data analyst
+Expedia Group,10000,3.799999952,1203,Gurugram,Senior Technical Risk & Compliance Analyst (Gurgaon),2025-08-28T20:42:18.191Z,3.799999952,1203,NULL,Haryana,data analyst
+Siemens,10000,4,11313,Bengaluru,Assistant Manager - Reporting Analyst,2025-08-27T15:21:26.156Z,4,11313,NULL,Karnataka,data analyst
+Lowe's,NULL,NULL,NULL,Bengaluru,Senior Analyst BA_Digital Category Experience,2025-08-27T23:26:04.168Z,3.400000095,59795,NULL,Karnataka,data analyst
+Cubic Corporation,5001,3.5,640,Hyderabad,Sr. Finance Analyst,2025-08-27T18:29:56.416Z,3.5,640,NULL,Telangana,data analyst
+Lubrizol,10000,3.599999905,457,Pune,Data Analyst,2025-08-25T17:22:20.867Z,3.599999905,457,NULL,Maharashtra,data analyst
+Adobe,10000,4.199999809,858,Noida,Advanced Analytics & Reporting Analyst 3,2025-08-28T11:45:25.061Z,4.199999809,858,NULL,Uttar Pradesh,data analyst
+ADCI MAA 15 SEZ,10000,3.5,53749,Bengaluru,"Business Research Analyst - II, RBS Tech",2025-08-28T07:51:18.516Z,3.5,53748,NULL,Karnataka,data analyst
+"Milestone Technologies, Inc.",1001,3.400000095,303,Remote,Lead Business Analyst - M365 & SharePoint Migrations,2025-08-28T03:04:45.901Z,3.400000095,303,NULL,NULL,data analyst
+LatentView Analytics,51,3.799999952,48,Chennai,Senior Analyst,2025-08-28T13:11:26.920Z,3.799999952,48,NULL,Tamil Nadu,data analyst
+United Airlines,10000,3.900000095,4823,Gurugram,Associate Analyst - Tech Ops Business Intelligence,2025-08-28T13:55:15.173Z,3.900000095,4823,NULL,Haryana,data analyst
+Lowe's,NULL,NULL,NULL,Bengaluru,IND-Analyst BA_Digital Category Experience,2025-08-27T23:25:51.726Z,3.400000095,59795,NULL,Karnataka,data analyst
+Google,10000,4.300000191,5964,Gurugram,Senior Marketing Analyst Manager,2025-08-28T02:17:13.993Z,4.300000191,5964,NULL,Haryana,data analyst
+Epsilon,5001,3.400000095,338,Bengaluru,Senior Marketing Analyst,2025-08-28T06:49:14.903Z,3.400000095,338,NULL,Karnataka,data analyst
+FIS Global,10000,3.400000095,2796,Hyderabad,Business Analyst Senior,2025-08-28T11:24:13.191Z,3.400000095,2796,NULL,Telangana,data analyst
+Mastercard,10000,4,817,Pune,"Analyst, Risk Management",2025-08-27T16:48:29.414Z,4,817,NULL,Maharashtra,data analyst
+Global Payments Asia-Pacific India Private Limited,10000,3.299999952,2323,Pune,Senior Network Analyst,2025-08-26T20:10:37.387Z,3.299999952,2323,NULL,Maharashtra,data analyst
+MillerKnoll,10000,2.900000095,51,Bengaluru,Product Data Analyst,2025-08-26T11:50:32.741Z,2.900000095,51,NULL,Karnataka,data analyst
+Expedia Group,10000,3.799999952,1203,Bengaluru,"Data Scientist II, Product Analytics",2025-08-28T06:59:07.800Z,3.799999952,1203,NULL,Karnataka,data analyst
+Global Payments Asia-Pacific India Private Limited,10000,3.299999952,2323,Pune,Senior Business Analyst,2025-08-27T08:12:52.006Z,3.299999952,2323,NULL,Maharashtra,data analyst
+Amex,10000,4.099999905,9561,Gurugram,Analyst-Risk Management,2025-08-28T10:16:24.245Z,4.099999905,9561,NULL,Haryana,data analyst
+MillerKnoll,10000,2.900000095,51,Bengaluru,Product Data Analyst,2025-08-26T11:50:30.221Z,2.900000095,51,NULL,Karnataka,data analyst
+TSYS Card Tech Services India LLP,10000,3.200000048,129,Noida,Business Intelligence Developer,2025-08-27T08:12:53.904Z,3.200000048,129,NULL,Uttar Pradesh,data analyst
+TE Connectivity,10000,3.599999905,2364,Bengaluru,Senior Analyst Digital Product Data,2025-08-28T07:48:37.060Z,3.599999905,2364,NULL,Karnataka,data analyst
+Amgen,10000,4,1840,Hyderabad,Sr. Associate - Data and Analytics,2025-08-28T11:32:29.686Z,4,1840,NULL,Telangana,data analyst
+PayU,1001,3.799999952,81,Bengaluru,Senior Credit Risk Analyst,2025-08-28T14:33:07.727Z,3.799999952,81,NULL,Karnataka,data analyst
+Paytm,1001,3.799999952,365,Noida,Product Analyst- Team Lead- Recharges & Utilities,2025-08-27T16:09:03.341Z,3.799999952,365,NULL,Uttar Pradesh,data analyst
+Cummins Inc.,10000,3.799999952,5084,Pune,Business Intelligence Analyst,2025-08-28T10:00:12.808Z,3.799999952,5084,NULL,Maharashtra,data analyst
+RSM,10000,3.5,897,Hyderabad,"Supervisor, Data & Analytics",2025-08-28T10:33:35.951Z,3.5,897,NULL,Telangana,data analyst
+ICON Plc,10000,3.400000095,1322,Chennai,IPG Senior Reporting Analyst,2025-08-28T13:16:35.734Z,3.400000095,1322,NULL,Tamil Nadu,data analyst
+Commonwealth Bank,10000,3.900000095,814,Bengaluru,Advanced Analytics Analyst,2025-08-28T06:49:57.264Z,3.900000095,814,NULL,Karnataka,data analyst
+YouTube,NULL,4.300000191,255,Bengaluru,"Business Intelligence Delivery Lead, Data Products, YouTube",2025-08-27T20:17:11.991Z,4.300000191,255,NULL,Karnataka,data analyst
+Flix SE,1001,3.700000048,87,Delhi,Analyst - Customer Support & Crisis Management (Contractual) - Delhi,2025-08-27T21:25:37.879Z,3.700000048,87,NULL,NULL,data analyst
+ACI Worldwide,1001,3.400000095,261,Bengaluru,Sr Business Analyst/Technical Writer,2025-08-28T06:48:18.765Z,3.400000095,261,NULL,Karnataka,data analyst
+Cimpress,5001,3.900000095,54,Remote,Lead Analyst,2025-08-26T23:02:18.082Z,3.900000095,54,NULL,NULL,data analyst
+Schneider Electric,10000,3.900000095,5828,Bengaluru,"Senior, ERP Business Analyst",2025-08-28T05:56:42.624Z,3.900000095,5828,NULL,Karnataka,data analyst
+Ascensus,5001,3.099999905,301,Chennai,Senior Financial Analyst,2025-08-26T16:46:22.131Z,3.099999905,301,NULL,Tamil Nadu,data analyst
+Russell Investments,1001,3.700000048,79,Mumbai,Senior Analyst,2025-08-28T18:50:15.242Z,3.700000048,79,NULL,Maharashtra,data analyst
+Capgemini,10000,3.700000048,10501,Mumbai,Research Analyst,2025-08-28T10:16:44.630Z,3.700000048,10501,NULL,Maharashtra,data analyst
+Regal Rexnord,10000,3.200000048,1173,Hyderabad,IT ERP Product Analyst III,2025-08-27T16:00:15.341Z,3.200000048,1173,NULL,Telangana,data analyst
+Criteo,1001,4.099999905,83,Gurugram,Senior Data Analyst,2025-08-28T11:07:12.625Z,4.099999905,83,NULL,Haryana,data analyst
+BSI Financial Services,501,2.900000095,79,Gurugram,Senior Data Analyst,2025-08-28T08:56:11.410Z,2.900000095,79,NULL,Haryana,data analyst
+BSI Financial Services,501,2.900000095,79,Gurugram,Senior Data Analyst,2025-08-28T08:56:12.220Z,2.900000095,79,NULL,Haryana,data analyst
+Cloudgritz Technologies,NULL,NULL,NULL,Noida,Data Engineer Intern,2025-08-02T07:01:59.503Z,0,0,150000,Uttar Pradesh,data analyst intern
+TSYS Card Tech Services India LLP,10000,3.200000048,129,Pune,Senior Information Security Analyst,2025-08-28T08:10:29.759Z,3.200000048,129,NULL,Maharashtra,data analyst
+Citi,10000,3.900000095,20341,Pune,Data Engineer Intmd Analyst - C11 - PUNE,2025-08-27T04:02:51.203Z,3.900000095,20341,NULL,Maharashtra,data analyst
+Amex,10000,4.099999905,9561,Gurugram,Analyst - Data Enrichment & Hierarchy Management,2025-08-26T22:16:31.637Z,4.099999905,9561,NULL,Haryana,data analyst
+ATSPL - Karnataka - C57,10000,3.5,53749,Bengaluru,"Program Analyst, LM ACES",2025-08-27T07:51:22.238Z,3.5,53748,NULL,Karnataka,data analyst
+JPMorganChase,10000,3.900000095,20091,Bengaluru,Credit Risk - Operations Analyst,2025-08-27T08:15:50.176Z,3.900000095,20091,NULL,Karnataka,data analyst
+S&P Global,10000,3.900000095,1626,Noida,"Data Analyst, Fixed Income Pricing",2025-08-26T15:14:18.459Z,3.900000095,1626,NULL,Uttar Pradesh,data analyst
+Optum,10000,3.299999952,6942,Gurugram,"Principal Data Analyst - BPO, PowerBI, Tableau",2025-08-26T22:50:18.147Z,3.299999952,6942,NULL,Haryana,data analyst
+Citi,10000,3.900000095,20341,Chennai,Data Quality Analyst -SQL- C09- Chennai,2025-08-27T04:02:50.006Z,3.900000095,20341,NULL,Tamil Nadu,data analyst
+Paytm,1001,3.799999952,365,Mumbai,Collection Data Analytics,2025-08-27T10:11:17.232Z,3.799999952,365,NULL,Maharashtra,data analyst
+Citi,10000,3.900000095,20341,Haryana,Reference Data Services Analyst 2 - C10 - GURUGRAM,2025-08-27T04:02:52.283Z,3.900000095,20341,NULL,NULL,data analyst
+Optum,10000,3.299999952,6942,Gurugram,Data Analyst,2025-08-26T16:50:18.498Z,3.299999952,6942,NULL,Haryana,data analyst
+FedEx AMEA,10000,3.5,61640,Gurugram,Data Analyst- Associate,2025-08-27T08:02:15.653Z,3.5,61640,NULL,Haryana,data analyst
+Citi,10000,3.900000095,20341,Bengaluru,Business Analytics Analyst - C10 - BANGALORE,2025-08-27T04:02:48.766Z,3.900000095,20341,NULL,Karnataka,data analyst
+Deutsche Bank,10000,3.799999952,3447,Bengaluru,"Reference Data Analyst, NCT",2025-08-27T01:56:41.091Z,3.799999952,3447,NULL,Karnataka,data analyst
+"Fiserv, Inc.",10000,3.299999952,7029,Thane,Business Analyst,2025-08-27T13:10:24.992Z,3.299999952,7029,NULL,Maharashtra,data analyst
+Cubic Corporation,5001,3.5,640,Hyderabad,Sr. Finance Analyst,2025-08-27T18:29:56.416Z,3.5,640,NULL,Telangana,data analyst
+Cushman & Wakefield,10000,3.599999905,2267,Chennai,Data Governance Analyst,2025-08-28T10:22:49.856Z,3.599999905,2267,NULL,Tamil Nadu,data analyst
+Zensar Technologies,5001,3.799999952,735,India,Guidewire Data Analyst,2025-08-26T16:42:30.674Z,3.799999952,735,NULL,NULL,data analyst
+Deutsche Bank,10000,3.799999952,3447,Bengaluru,HCM Business Advisory Analyst,2025-08-27T01:56:39.414Z,3.799999952,3447,NULL,Karnataka,data analyst
+Wipro Limited,10000,3.799999952,16925,Bengaluru,Business Analyst - L5,2025-08-27T12:18:46.715Z,3.799999952,16925,NULL,Karnataka,data analyst
+JPMorganChase,10000,3.900000095,20091,Bengaluru,Trading Services - Operations Analyst,2025-08-27T08:15:49.772Z,3.900000095,20091,NULL,Karnataka,data analyst
+Optum,10000,3.299999952,6942,Hyderabad,Senior Data Engineering Analyst,2025-08-26T16:50:17.866Z,3.299999952,6942,NULL,Telangana,data analyst
+Citi,10000,3.900000095,20341,Bengaluru,Business Analytics Analyst - C10 - BANGALORE,2025-08-27T04:02:50.692Z,3.900000095,20341,NULL,Karnataka,data analyst
+HSBC,10000,4,16009,Pune,Business Analyst/Lead Business Analyst,2025-08-27T00:42:24.597Z,4,16009,NULL,Maharashtra,data analyst
+JPMorganChase,10000,3.900000095,20091,Mumbai,Talent Data Analytics Associate,2025-08-27T08:15:49.219Z,3.900000095,20091,NULL,Maharashtra,data analyst
+Astellas,1001,3.700000048,270,Bengaluru,"Data and Analytics Developer, Junior BI Devleoper",2025-08-26T19:22:31.666Z,3.700000048,270,NULL,Karnataka,data analyst
+Wipro Limited,10000,3.799999952,16925,Hyderabad,Business Analyst - L1,2025-08-27T12:18:46.456Z,3.799999952,16925,NULL,Telangana,data analyst
+Amazon Dev Center India - Hyderabad,10000,3.5,53749,Bengaluru,"Business Analyst Support, Last Mile ACES",2025-08-27T07:51:21.126Z,3.5,53748,NULL,Karnataka,data analyst
+Citi,10000,3.900000095,20341,Pune,Apps Dev Intmd Programmer Analyst - C11 - PUNE,2025-08-27T04:02:47.274Z,3.900000095,20341,NULL,Maharashtra,data analyst
+Bosch Group,10000,4,7384,Bengaluru,Business Analyst/Functional Consultant HR (with AI/ML knowledge),2025-08-28T13:40:07.647Z,4,7384,NULL,Karnataka,data analyst
+Accenture,10000,4,28094,Chennai,Business Advisory Analyst,2025-08-27T01:16:08.648Z,4,28094,NULL,Tamil Nadu,data analyst
+Citi,10000,3.900000095,20341,Pune,IT Project Intmd Analyst - C11 - PUNE,2025-08-27T04:02:56.468Z,3.900000095,20341,NULL,Maharashtra,data analyst
+Virtusa,10000,3.700000048,1059,Chennai,Business Analyst,2025-08-26T19:05:25.282Z,3.700000048,1059,NULL,Tamil Nadu,data analyst
+JPMorganChase,10000,3.900000095,20091,Mumbai,Financial Analysis - Analyst,2025-08-27T08:15:50.311Z,3.900000095,20091,NULL,Maharashtra,data analyst
+Citco,5001,3.299999952,402,Telangana,Senior Data BI Analyst,2025-08-26T16:50:48.551Z,3.299999952,402,NULL,NULL,data analyst
+"Fiserv, Inc.",10000,3.299999952,7029,Thane,Credit Risk Analyst,2025-08-27T13:10:24.912Z,3.299999952,7029,NULL,Maharashtra,data analyst
+RSM,10000,3.5,897,Gurugram,Microsoft Reporting and Data Analyst 1,2025-08-27T10:34:05.930Z,3.5,897,NULL,Haryana,data analyst
+JPMorganChase,10000,3.900000095,20091,Bengaluru,Credit Risk - Operations Analyst,2025-08-27T08:15:50.176Z,3.900000095,20091,NULL,Karnataka,data analyst
+Fox Corporation,51,3.900000095,757,Bengaluru,Business Intelligence Engineer,2025-08-26T19:27:37.071Z,3.900000095,757,NULL,Karnataka,data analyst
+Labcorp,10000,3.299999952,8731,Bengaluru,Senior Analyst - Workday Reporting,2025-08-27T06:04:55.849Z,3.299999952,8731,NULL,Karnataka,data analyst
+Flex LTD,10000,3.900000095,5939,Chennai,Business Analyst - ERP Implementations,2025-08-27T03:43:26.932Z,3.900000095,5939,NULL,Tamil Nadu,data analyst
+NTT DATA,10000,3.5,4808,Mumbai,Business Intelligence Analyst (Asia Pacific),2025-08-27T10:26:25.459Z,3.5,4808,NULL,Maharashtra,data analyst
+Shell,10000,3.900000095,10116,Chennai,HSSE Data Analyst,2025-08-26T21:23:11.382Z,3.900000095,10116,NULL,Tamil Nadu,data analyst
+Novartis,10000,4.099999905,4401,Hyderabad,"Analyst, Environmental Compliance",2025-08-26T15:29:02.189Z,4.099999905,4401,NULL,Telangana,data analyst
+Shell,10000,3.900000095,10116,Chennai,Analyst - MICOE,2025-08-26T21:23:11.054Z,3.900000095,10116,NULL,Tamil Nadu,data analyst
+Wipro Limited,10000,3.799999952,16925,Chennai,Business Analyst - L4,2025-08-27T06:18:43.298Z,3.799999952,16925,NULL,Tamil Nadu,data analyst
+Epsilon,5001,3.400000095,338,Bengaluru,Senior Business Systems Analyst,2025-08-26T18:49:23.003Z,3.400000095,338,NULL,Karnataka,data analyst
+Citi,10000,3.900000095,20341,Bengaluru,Business Analytics Analyst - C10 - BANGALORE,2025-08-27T04:02:48.766Z,3.900000095,20341,NULL,Karnataka,data analyst
+Amex,10000,4.099999905,9561,Gurugram,Analyst-Data Analytics,2025-08-26T16:16:25.885Z,4.099999905,9561,NULL,Haryana,data analyst
+bp,10000,3.799999952,5101,Pune,Senior business analyst,2025-08-26T22:45:52.545Z,3.799999952,5101,NULL,Maharashtra,data analyst
+Amex,10000,4.099999905,9561,Gurugram,Senior Analyst Data Governance & Management,2025-08-27T10:16:28.100Z,4.099999905,9561,NULL,Haryana,data analyst
+Virtusa,10000,3.700000048,1059,Chennai,Senior Business Systems Analyst,2025-08-27T13:05:27.060Z,3.700000048,1059,NULL,Tamil Nadu,data analyst
+Moody's,NULL,NULL,NULL,Bengaluru,Mgr-Fin Data & Analytics,2025-08-26T21:27:27.532Z,3.599999905,578,NULL,Karnataka,data analyst
+JPMorganChase,10000,3.900000095,20091,Mumbai,Analyst – Credit Risk Management,2025-08-27T08:15:49.854Z,3.900000095,20091,NULL,Maharashtra,data analyst
+"Fiserv, Inc.",10000,3.299999952,7029,Thane,Credit Risk Analyst,2025-08-27T13:10:24.912Z,3.299999952,7029,NULL,Maharashtra,data analyst
+Reckitt,10000,3.799999952,1574,Hyderabad,"IT&D Sr. Analyst, Product Management - Customer Planning",2025-08-26T20:14:39.489Z,3.799999952,1574,NULL,Telangana,data analyst
+JPMorganChase,10000,3.900000095,20091,Mumbai,Financial Analysis - Analyst,2025-08-27T08:15:50.311Z,3.900000095,20091,NULL,Maharashtra,data analyst
+Accenture,10000,4,28094,Bengaluru,Sales Operations Senior Analyst,2025-08-26T16:46:16.100Z,4,28094,NULL,Karnataka,data analyst
+AXA,10000,3.900000095,2854,Bengaluru,Sr. Associate Business Analyst,2025-08-26T17:41:30.435Z,3.900000095,2854,NULL,Karnataka,data analyst
+Novartis,10000,4.099999905,4401,Hyderabad,"Analyst, Environmental Compliance",2025-08-26T15:29:02.189Z,4.099999905,4401,NULL,Telangana,data analyst
+JLL,10000,3.700000048,3771,Gurugram,Analyst - GIS,2025-08-26T20:03:38.924Z,3.700000048,3771,NULL,Haryana,data analyst
+Target,10000,3.5,79140,Bengaluru,Sr Product Ops Analyst,2025-08-26T19:08:05.455Z,3.5,79139,NULL,Karnataka,data analyst
+TSYS Card Tech Services India LLP,10000,3.200000048,129,Noida,Business Intelligence Developer,2025-08-27T08:12:53.904Z,3.200000048,129,NULL,Uttar Pradesh,data analyst
+Agilent Technologies Inc.,10000,4,860,Manesar,Cyber Security Risk Analyst,2025-08-26T19:03:24.022Z,4,860,NULL,"Gurugram, Haryana",data analyst
+Adsiduous Media,NULL,NULL,NULL,Film Nagar,Intern - Data,2025-08-05T13:17:53.625Z,0,0,11000,"Hyderabad, Telangana",data analyst intern
+JPMorganChase,10000,3.900000095,20091,Bengaluru,Trading Services - Operations Analyst,2025-08-27T08:15:49.772Z,3.900000095,20091,NULL,Karnataka,data analyst
+Deutsche Bank,10000,3.799999952,3447,Bengaluru,HCM Business Advisory Analyst,2025-08-27T01:56:39.414Z,3.799999952,3447,NULL,Karnataka,data analyst
+Fox Corporation,51,3.900000095,757,Bengaluru,Business Intelligence Engineer,2025-08-26T19:27:37.071Z,3.900000095,757,NULL,Karnataka,data analyst
+Moody's,NULL,NULL,NULL,Bengaluru,Team Lead-Fin Data & Analytics,2025-08-26T15:27:23.698Z,3.599999905,578,NULL,Karnataka,data analyst
+Citi,10000,3.900000095,20341,Bengaluru,Business Analytics Analyst - C10 - BANGALORE,2025-08-27T04:02:50.692Z,3.900000095,20341,NULL,Karnataka,data analyst
+Shell,10000,3.900000095,10116,Chennai,Analyst - MICOE,2025-08-26T21:23:11.054Z,3.900000095,10116,NULL,Tamil Nadu,data analyst
+Wipro Limited,10000,3.799999952,16925,Hyderabad,Business Analyst - L1,2025-08-27T12:18:46.456Z,3.799999952,16925,NULL,Telangana,data analyst
+Genpact,10000,3.799999952,7805,Noida,Principal Consultant - Business Analyst,2025-08-26T17:18:29.720Z,3.799999952,7805,NULL,Uttar Pradesh,data analyst
+Wipro Limited,10000,3.799999952,16925,Bengaluru,Business Analyst - L5,2025-08-27T12:18:46.715Z,3.799999952,16925,NULL,Karnataka,data analyst
+Optum,10000,3.299999952,6942,Hyderabad,Senior Data Engineering Analyst,2025-08-26T16:50:17.866Z,3.299999952,6942,NULL,Telangana,data analyst
+Infosys BPM Limited,10000,3.799999952,16631,Bengaluru,Senior Analyst - Knowledge Services,2025-08-26T17:20:22.506Z,3.799999952,16631,NULL,Karnataka,data analyst
+HSBC,10000,4,16009,Pune,Business Analyst/Lead Business Analyst,2025-08-27T00:42:24.597Z,4,16009,NULL,Maharashtra,data analyst
+TSYS Card Tech Services India LLP,10000,3.200000048,129,Pune,IT Service & Incident Analyst,2025-08-26T10:12:51.144Z,3.200000048,129,NULL,Maharashtra,data analyst
+Educational Testing Service (ETS),1001,3.700000048,565,Delhi,Senior Financial Analyst,2025-08-25T17:34:02.175Z,3.700000048,565,NULL,Delhi,data analyst
+JPMorganChase,10000,3.900000095,20091,Mumbai,Trade Support Analyst,2025-08-27T08:15:50.832Z,3.900000095,20091,NULL,Maharashtra,data analyst
+TSYS Card Tech Services India LLP,10000,3.200000048,129,Noida,Business Intelligence Developer,2025-08-27T08:12:53.904Z,3.200000048,129,NULL,Uttar Pradesh,data analyst
+Amex,10000,4.099999905,9561,Gurugram,Senior Analyst - Product Management,2025-08-27T10:16:24.932Z,4.099999905,9561,NULL,Haryana,data analyst
+Accenture,10000,4,28094,Bengaluru,Sales Operations Analyst,2025-08-26T16:46:18.763Z,4,28094,NULL,Karnataka,data analyst
+Barclays,10000,3.900000095,6857,Chennai,Analyst - Internal Reporting,2025-08-26T21:48:39.747Z,3.900000095,6857,NULL,Tamil Nadu,data analyst
+Cimpress,5001,3.900000095,54,Remote,Lead Analyst,2025-08-26T23:02:18.082Z,3.900000095,54,NULL,NULL,data analyst
+Kaizen Partners,NULL,NULL,NULL,Bengaluru,Business Analyst Intern,2025-08-20T11:51:16.643Z,0,0,12500,Karnataka,data analyst intern
+Ascensus,5001,3.099999905,301,Chennai,Senior Financial Analyst,2025-08-26T16:46:22.131Z,3.099999905,301,NULL,Tamil Nadu,data analyst
+General Mills,10000,3.799999952,3090,Mumbai,"Sr. D&T Analyst – DnA, Connected Commerce",2025-08-27T00:15:01.147Z,3.799999952,3090,NULL,Maharashtra,data analyst
+ASSPL - Karnataka,10000,3.5,53749,Bengaluru,"Business Intelligence Engineer, Delivery Experience",2025-08-26T21:51:28.203Z,3.5,53748,NULL,Karnataka,data analyst
+Accenture,10000,4,28094,Chennai,Business Advisory Senior Analyst,2025-08-27T01:16:10.378Z,4,28094,NULL,Tamil Nadu,data analyst
+Wipro Limited,10000,3.799999952,16925,Mumbai,Risk Comp and Governance Analyst - L3,2025-08-27T12:18:46.079Z,3.799999952,16925,NULL,Maharashtra,data analyst
+Genpact,10000,3.799999952,7805,Noida,Principal Consultant - Business Analyst,2025-08-26T17:18:29.720Z,3.799999952,7805,NULL,Uttar Pradesh,data analyst
+Roche,10000,4.099999905,2663,Chennai,Market Research Analyst/ Senior Market Research Analyst,2025-08-27T04:23:51.817Z,4.099999905,2663,NULL,Tamil Nadu,data analyst
+Genpact,10000,3.799999952,7805,Kolkata,Business Analyst - Post-Sales Support,2025-08-26T17:12:56.013Z,3.799999952,7805,NULL,West Bengal,data analyst
+Amex,10000,4.099999905,9561,Gurugram,Lead Analyst,2025-08-26T16:16:25.720Z,4.099999905,9561,NULL,Haryana,data analyst
+Splashgain Technology Solutions Pvt Ltd,NULL,NULL,NULL,Kothrud,AI Engineer Intern - Generative AI & LLMs,2025-08-09T04:37:23.276Z,0,0,25000,"Pune, Maharashtra",data analyst intern
+Global Payments Asia-Pacific India Private Limited,10000,3.299999952,2323,Pune,Senior Business Analyst,2025-08-27T08:12:52.006Z,3.299999952,2323,NULL,Maharashtra,data analyst
+Amex,10000,4.099999905,9561,Gurugram,Analyst-Risk Management,2025-08-27T10:16:30.217Z,4.099999905,9561,NULL,Haryana,data analyst
+MillerKnoll,10000,2.900000095,51,Bengaluru,Product Data Analyst,2025-08-26T11:50:30.221Z,2.900000095,51,NULL,Karnataka,data analyst
+Global Payments Asia-Pacific India Private Limited,10000,3.299999952,2323,Pune,Senior Network Analyst,2025-08-26T20:10:37.387Z,3.299999952,2323,NULL,Maharashtra,data analyst
+Accenture,10000,4,28094,Hyderabad,Data Science Research Senior Analyst,2025-08-25T16:46:01.391Z,4,28094,NULL,Telangana,data analyst
+MillerKnoll,10000,2.900000095,51,Bengaluru,Product Data Analyst,2025-08-26T11:50:32.741Z,2.900000095,51,NULL,Karnataka,data analyst
+ASSPL - Uttar Pradesh,10000,3.5,53749,Lucknow,"Research Analyst (Level 3), Operations",2025-08-26T14:51:29.444Z,3.5,53748,NULL,Uttar Pradesh,data analyst
+Amex,10000,4.099999905,9561,Gurugram,Analyst - Data Governance & Management,2025-08-26T04:16:32.687Z,4.099999905,9561,NULL,Haryana,data analyst
+TSYS Card Tech Services India LLP,10000,3.200000048,129,Noida,Business Intelligence Developer,2025-08-27T08:12:53.904Z,3.200000048,129,NULL,Uttar Pradesh,data analyst
+NTT DATA,10000,3.5,4808,Noida,Data Analyst,2025-08-26T00:05:38.297Z,3.5,4808,NULL,Uttar Pradesh,data analyst
+Airbus India Private Limited,10000,4.099999905,2269,Bengaluru,Tech Data Analyst - Wiring,2025-08-26T09:10:50.430Z,4.099999905,2269,NULL,Karnataka,data analyst
+HITACHI INDIA PVT. LTD,NULL,3.700000048,1851,Bengaluru,Business Intelligence Analyst - Hitachi Industrial Equipment Systems India,2025-08-25T20:18:11.732Z,3.700000048,1851,NULL,Karnataka,data analyst
+Lubrizol,10000,3.599999905,457,Pune,Data Analyst,2025-08-25T17:22:20.867Z,3.599999905,457,NULL,Maharashtra,data analyst
+Epsilon,5001,3.400000095,338,Bengaluru,Senior Business Systems Analyst,2025-08-26T18:49:23.003Z,3.400000095,338,NULL,Karnataka,data analyst
+Siemens Energy,10000,3.900000095,915,Pune,Analyst - Data Management,2025-08-25T15:55:23.886Z,3.900000095,915,NULL,Maharashtra,data analyst
+Qualitest,5001,3.400000095,92,Bengaluru,Data Analyst,2025-08-25T19:20:12.398Z,3.400000095,92,NULL,Karnataka,data analyst
+Yash Technologies,1001,3.900000095,237,Pune,Sr. Data Analyst - SQL,2025-08-26T07:55:25.280Z,3.900000095,237,NULL,Maharashtra,data analyst
+Brillio,1001,3.400000095,174,Hyderabad,Lead Data Analyst – R01553750,2025-08-26T05:57:41.622Z,3.400000095,174,NULL,Telangana,data analyst
+Standard Chartered,10000,4.099999905,3266,Bengaluru,SPM - Data Analyst,2025-08-26T10:37:19.774Z,4.099999905,3266,NULL,Karnataka,data analyst
+Aristocrat,5001,3.400000095,216,Noida,BI Developer,2025-08-26T00:04:53.211Z,3.400000095,216,NULL,Uttar Pradesh,data analyst
+bp,10000,3.799999952,5101,Pune,Data Privacy Analyst,2025-08-25T16:46:25.968Z,3.799999952,5101,NULL,Maharashtra,data analyst
+Amazon Pay (India) Private Limited,10000,3.5,53749,Bengaluru,"Business Analyst, Pay on Delivery",2025-08-25T21:51:33.753Z,3.5,53748,NULL,Karnataka,data analyst
+Siemens Energy,10000,3.900000095,915,Pune,Analyst - Data Management,2025-08-25T15:55:23.886Z,3.900000095,915,NULL,Maharashtra,data analyst
+Qualitest,5001,3.400000095,92,Bengaluru,Data Analyst,2025-08-25T19:20:12.398Z,3.400000095,92,NULL,Karnataka,data analyst
+Elanco,5001,3.5,191,Bengaluru,Analyst - Supply Chain,2025-08-26T07:56:05.814Z,3.5,191,NULL,Karnataka,data analyst
+Elanco,5001,3.5,191,Bengaluru,Business Process Analyst - Supply Chain,2025-08-26T07:56:08.007Z,3.5,191,NULL,Karnataka,data analyst
+Elanco,5001,3.5,191,Bengaluru,Analyst - Supply Chain,2025-08-26T07:56:05.814Z,3.5,191,NULL,Karnataka,data analyst
+Enphase Energy,1001,3.200000048,101,Bengaluru,PMO Data Analyst,2025-08-25T18:09:18.657Z,3.200000048,101,NULL,Karnataka,data analyst
+Elsevier,5001,3.799999952,768,Chennai,Data Analyst II,2025-08-26T08:06:41.765Z,3.799999952,768,NULL,Tamil Nadu,data analyst
+The Cigna Group,10000,3.599999905,5309,Andhra Pradesh,Database Administration Senior Analyst - HIH - Evernorth,2025-08-26T11:43:18.980Z,3.599999905,5309,NULL,NULL,data analyst
+Yash Technologies,1001,3.900000095,237,Pune,Sr. Data Analyst - SQL,2025-08-26T07:55:25.280Z,3.900000095,237,NULL,Maharashtra,data analyst
+ExxonMobil,10000,3.900000095,5614,Bengaluru,Planning Analyst,2025-08-25T19:38:24.653Z,3.900000095,5614,NULL,Karnataka,data analyst
+Amex,10000,4.099999905,9561,Gurugram,Analyst - Data Governance & Management,2025-08-26T04:16:32.687Z,4.099999905,9561,NULL,Haryana,data analyst
+Qualitest,5001,3.400000095,92,Bengaluru,Senior Data Analyst,2025-08-25T19:19:51.323Z,3.400000095,92,NULL,Karnataka,data analyst
+RELX,1001,3.799999952,129,Chennai,Data Analyst II,2025-08-26T08:10:51.197Z,3.799999952,129,NULL,Tamil Nadu,data analyst
+HITACHI INDIA PVT. LTD,NULL,3.700000048,1851,Bengaluru,Business Intelligence Analyst - Hitachi Industrial Equipment Systems India,2025-08-25T20:18:11.732Z,3.700000048,1851,NULL,Karnataka,data analyst
+TE Connectivity,10000,3.599999905,2364,Bengaluru,PRODUCT PRICING ANALYST I,2025-08-26T13:48:40.568Z,3.599999905,2364,NULL,Karnataka,data analyst
+RSM,10000,3.5,897,Bengaluru,"Manager, Data & Analytics - Business Intelligence",2025-08-26T10:33:36.988Z,3.5,897,NULL,Karnataka,data analyst
+ExxonMobil,10000,3.900000095,5614,Bengaluru,Sustainability Reporting Analyst,2025-08-26T13:38:18.595Z,3.900000095,5614,NULL,Karnataka,data analyst
+Accenture,10000,4,28094,Hyderabad,Data Science Research Senior Analyst,2025-08-25T16:46:01.391Z,4,28094,NULL,Telangana,data analyst
+Google,10000,4.300000191,5964,Hyderabad,"Business Systems Analyst, Anaplan",2025-08-25T20:17:19.294Z,4.300000191,5964,NULL,Telangana,data analyst
+Wells Fargo,10000,3.599999905,47318,Bengaluru,Technology Operations Analyst - ITAM,2025-08-26T09:18:37.075Z,3.599999905,47317,NULL,Karnataka,data analyst
+Amex,10000,4.099999905,9561,Gurugram,Analyst II- GHG Inventory Management,2025-08-25T16:17:02.552Z,4.099999905,9561,NULL,Haryana,data analyst
+Optum,10000,3.299999952,6942,Bengaluru,Data Engineering Analyst,2025-08-25T16:50:58.267Z,3.299999952,6942,NULL,Karnataka,data analyst
+Astellas,1001,3.700000048,270,Bengaluru,"Business Intelligence Architect, BI Architect (QLIK PowerBI)",2025-08-26T10:02:19.562Z,3.700000048,270,NULL,Karnataka,data analyst
+Barclays,10000,3.900000095,6857,Noida,Controls Assurance Analyst,2025-08-25T16:01:58.959Z,3.900000095,6857,NULL,Uttar Pradesh,data analyst
+Vodafone Idea,5001,4,2701,Indore,Manager - Cost Analyst,2025-08-23T02:13:26.834Z,4,2701,NULL,Madhya Pradesh,data analyst
+Eclerx,10000,3.599999905,1228,Mumbai,Analyst,2025-08-25T17:43:42.542Z,3.599999905,1228,NULL,Maharashtra,data analyst
+Empower,NULL,3.5,100,Bengaluru,Sr Analyst Business Intelligence Analytics,2025-08-26T12:22:53.411Z,3.5,100,NULL,Karnataka,data analyst
+Deloitte,10000,3.900000095,13896,Bengaluru,"Manager | Business Analyst | Bengaluru | Operations, Industry & Domain Solutions",2025-08-26T12:40:02.351Z,3.900000095,13896,NULL,Karnataka,data analyst
+RSM,10000,3.5,897,Bengaluru,"Manager, Data & Analytics - Business Intelligence",2025-08-26T10:33:36.988Z,3.5,897,NULL,Karnataka,data analyst
+Cushman & Wakefield,10000,3.599999905,2267,Bengaluru,Senior BI Analyst - Power BI Developer | Bangalore,2025-08-26T09:22:37.740Z,3.599999905,2267,NULL,Karnataka,data analyst
+Frost & Sullivan,1001,3.5,162,Mumbai,"Research Analyst- Chemicals, Materials and Nutrition",2025-08-22T15:16:01.791Z,3.5,162,NULL,Maharashtra,data analyst
+World Bank Group,1001,4.300000191,959,Chennai,"IT Analyst, Business Solutions",2025-08-26T01:39:46.519Z,4.300000191,959,NULL,Tamil Nadu,data analyst
+State Street,10000,3.400000095,2986,Bengaluru,"Corporate Programs Analyst, Officer",2025-08-25T19:18:34.214Z,3.400000095,2986,NULL,Karnataka,data analyst
+Google,10000,4.300000191,5964,Hyderabad,"Business Systems Analyst, Anaplan",2025-08-25T20:17:19.294Z,4.300000191,5964,NULL,Telangana,data analyst
+TE Connectivity,10000,3.599999905,2364,Bengaluru,PRODUCT PRICING ANALYST I,2025-08-26T13:48:40.568Z,3.599999905,2364,NULL,Karnataka,data analyst
+AtkinsRéalis,10000,3.900000095,2572,Haryana,Procurement Analyst,2025-08-26T04:39:47.887Z,3.900000095,2572,NULL,NULL,data analyst
+BOEING,10000,3.900000095,10120,Bengaluru,Procurement Analyst (Procurement Analyst-General),2025-08-26T14:01:07.899Z,3.900000095,10120,NULL,Karnataka,data analyst
+Okta,5001,3.900000095,67,Bengaluru,Staff Developer Support Operations Analyst,2025-08-26T04:59:37.762Z,3.900000095,67,NULL,Karnataka,data analyst
+Tracxn Technologies,201,2.799999952,42,Bengaluru,Lead Analyst - Market Research,2025-08-26T06:35:21.997Z,2.799999952,42,NULL,Karnataka,data analyst
+Ameriprise India,10000,3.700000048,1621,Noida,Senior Risk Analyst,2025-08-26T07:54:24.037Z,3.700000048,1621,NULL,Uttar Pradesh,data analyst
+Elanco,5001,3.5,191,Bengaluru,Business Process Analyst - Supply Chain,2025-08-26T07:56:08.007Z,3.5,191,NULL,Karnataka,data analyst
+ExxonMobil,10000,3.900000095,5614,Bengaluru,Sustainability Reporting Analyst,2025-08-26T13:38:18.595Z,3.900000095,5614,NULL,Karnataka,data analyst
+Apple,10000,4.099999905,13823,Bengaluru,People Data & Analytics Engineer,2025-08-25T17:46:13.091Z,4.099999905,13823,NULL,Karnataka,data analyst
+The Cigna Group,10000,3.599999905,5309,Andhra Pradesh,HIH - Business Analytics Lead Analyst,2025-08-25T17:43:56.453Z,3.599999905,5309,NULL,NULL,data analyst
+Deutsche Bank,10000,3.799999952,3447,Mumbai,Business Finance Analyst,2025-08-25T19:56:40.180Z,3.799999952,3447,NULL,Maharashtra,data analyst
+Qualitest,5001,3.400000095,92,Bengaluru,Senior Data Analyst,2025-08-25T19:19:51.323Z,3.400000095,92,NULL,Karnataka,data analyst
+Citi,10000,3.900000095,20341,Pune,Markets Data Quality Management Sr. Lead Analyst - SVP,2025-08-26T04:02:33.865Z,3.900000095,20341,NULL,Maharashtra,data analyst
+ExxonMobil,10000,3.900000095,5614,Bengaluru,Planning Analyst,2025-08-25T19:38:24.653Z,3.900000095,5614,NULL,Karnataka,data analyst
+Eaton,10000,3.700000048,5632,Pune,Associate Analyst -GTM,2025-08-25T15:07:02.963Z,3.700000048,5632,NULL,Maharashtra,data analyst
+Infogain,5001,3.5,214,Mumbai,Business Analysis Analyst (Senior),2025-08-26T05:16:20.243Z,3.5,214,NULL,Maharashtra,data analyst
+Mastercard,10000,4,817,Gurugram,Senior Business Analyst - Revenue Systems Ops,2025-08-25T20:47:07.198Z,4,817,NULL,Haryana,data analyst
+Citi,10000,3.900000095,20341,Mumbai,Liquidity Mgmt Analyst 2,2025-08-26T04:02:32.140Z,3.900000095,20341,NULL,Maharashtra,data analyst
+Amex,10000,4.099999905,9561,Gurugram,Analyst-Compliance: Platform/Operations Administration,2025-08-26T10:16:28.808Z,4.099999905,9561,NULL,Haryana,data analyst
+Paytm,1001,3.799999952,365,Noida,Product Analyst - Team Lead - Risk,2025-08-26T10:11:54.592Z,3.799999952,365,NULL,Uttar Pradesh,data analyst
+Workday,10000,3.900000095,216,Pune,Business Analyst - Finance Transformation and Innovation,2025-08-25T15:10:30.478Z,3.900000095,216,NULL,Maharashtra,data analyst
+State Street,10000,3.400000095,2986,Bengaluru,"Corporate Programs Analyst, AVP (onsite)",2025-08-25T19:18:24.644Z,3.400000095,2986,NULL,Karnataka,data analyst
+Dentsu,10000,3.599999905,355,Thane,Lead Business Systems Analyst,2025-08-26T08:13:25.178Z,3.599999905,355,NULL,Maharashtra,data analyst
+HSBC,10000,4,16009,Hyderabad,Senior Business Analyst,2025-08-26T12:42:28.583Z,4,16009,NULL,Telangana,data analyst
+General Mills,10000,3.799999952,3090,Powai,Sr. D&T Analyst – Supply Chain,2025-08-26T00:14:59.232Z,3.799999952,3090,NULL,"Mumbai, Maharashtra",data analyst
+Dun & Bradstreet,5001,3.700000048,848,Chennai,Senior Analyst (R- 18374),2025-08-22T18:16:40.160Z,3.700000048,848,NULL,Tamil Nadu,data analyst
+Wood Mackenzie Limited,1001,4,53,Gurugram,Principal Research Analyst - Fibres,2025-08-25T18:00:29.716Z,4,53,NULL,Haryana,data analyst
+AXA XL,5001,4.099999905,186,Varthur,Sr. Associate Business Analyst,2025-08-26T09:28:51.869Z,4.099999905,186,NULL,"Bengaluru, Karnataka",data analyst
+PwC,1001,3.900000095,10065,Kolkata,IN-Senior Associate_Azure Data Engineer_Data & Analytics_Advisory_Kolkata,2025-08-26T07:12:28.722Z,3.900000095,10065,NULL,West Bengal,data analyst
+HSBC,10000,4,16009,Hyderabad,Business Intelligence Visualisation Development,2025-08-26T12:42:18.402Z,4,16009,NULL,Telangana,data analyst
+Paytm,1001,3.799999952,365,Noida,Business Analyst - Deputy Manager - EDC Devices,2025-08-26T10:10:53.102Z,3.799999952,365,NULL,Uttar Pradesh,data analyst
+AtkinsRéalis,10000,3.900000095,2572,Haryana,Procurement Analyst,2025-08-26T04:39:47.887Z,3.900000095,2572,NULL,NULL,data analyst
+TechnipFMC,1001,3.900000095,2252,Hyderabad,Data Analyst I,2025-08-19T02:49:19.436Z,3.900000095,2252,NULL,Telangana,data analyst
+Okta,5001,3.900000095,67,Bengaluru,Senior Salesforce Product Analyst,2025-08-26T04:59:38.282Z,3.900000095,67,NULL,Karnataka,data analyst
+QualityKiosk Technologies,1001,3.200000048,113,Pune,Business Analyst,2025-08-26T10:11:27.350Z,3.200000048,113,NULL,Maharashtra,data analyst
+Elastic,NULL,3.799999952,33,Bengaluru,"Sr. Business Systems Analyst, Cloud",2025-08-25T20:27:13.133Z,3.799999952,33,NULL,Karnataka,data analyst
+Corpay,10000,3.099999905,927,Chennai,Finance & Strategy Analyst,2025-08-26T10:08:47.167Z,3.099999905,927,NULL,Tamil Nadu,data analyst
+Bread Financial,5001,4.099999905,2309,Bengaluru,Model Validation Analyst Senior,2025-08-26T04:08:15.926Z,4.099999905,2309,NULL,Karnataka,data analyst
+The Cigna Group,10000,3.599999905,5309,Andhra Pradesh,Data Engineering Lead Analyst - HIH - Evernorth,2025-08-26T11:43:22.459Z,3.599999905,5309,NULL,NULL,data analyst
+Merck KGaA,10000,3.799999952,246,Bengaluru,Senior Analyst/Analyst_Biology_Digital Marketing,2025-08-26T09:49:43.311Z,3.799999952,246,NULL,Karnataka,data analyst
+ADCI - BLR 14 SEZ - F07,10000,3.5,53749,Bengaluru,"Business Research Analyst – I, ARTS",2025-08-26T14:51:29.355Z,3.5,53748,NULL,Karnataka,data analyst
+PwC,1001,3.900000095,10065,Bengaluru,IN-Senior Associate_Scrum Master_Data and Analytics_Advisory_Bangalore,2025-08-26T07:12:28.340Z,3.900000095,10065,NULL,Karnataka,data analyst
+Citi,10000,3.900000095,20341,Mumbai,Credit Risk Intermediate Analyst - Officer,2025-08-26T04:02:35.537Z,3.900000095,20341,NULL,Maharashtra,data analyst
+JPMorganChase,10000,3.900000095,20091,Mumbai,Quant Analytics Senior Associate,2025-08-26T08:15:54.658Z,3.900000095,20091,NULL,Maharashtra,data analyst
+PwC,1001,3.900000095,10065,Kolkata,IN-Senior Associate_Azure Data Engineer_Data & Analytics_Advisory_Kolkata,2025-08-26T07:12:28.722Z,3.900000095,10065,NULL,West Bengal,data analyst
+"RealPage, Inc.",5001,3.299999952,575,Telangana,Financial Analyst III,2025-08-25T16:56:51.470Z,3.299999952,575,NULL,NULL,data analyst
+Genpact,10000,3.799999952,7805,Kolkata,"Lead Consultant, Power BI Developer",2025-08-26T05:08:00.718Z,3.799999952,7805,NULL,West Bengal,data analyst
+The Cigna Group,10000,3.599999905,5309,Andhra Pradesh,Automation Engineer Lead Analyst - HIH - Evernorth,2025-08-26T11:43:18.808Z,3.599999905,5309,NULL,NULL,data analyst
+Deutsche Bank,10000,3.799999952,3447,Mumbai,Business Finance Senior Analyst,2025-08-25T19:57:25.880Z,3.799999952,3447,NULL,Maharashtra,data analyst
+Novartis,10000,4.099999905,4401,Hyderabad,Business Intelligence Lead,2025-08-25T15:23:27.182Z,4.099999905,4401,NULL,Telangana,data analyst
+AtkinsRéalis,10000,3.900000095,2572,Haryana,Procurement Analyst,2025-08-26T04:39:47.887Z,3.900000095,2572,NULL,NULL,data analyst
+Deutsche Bank,10000,3.799999952,3447,Mumbai,Business Finance Analyst,2025-08-25T19:56:40.180Z,3.799999952,3447,NULL,Maharashtra,data analyst
+The Cigna Group,10000,3.599999905,5309,Andhra Pradesh,HIH - Business Analytics Lead Analyst,2025-08-25T17:43:56.453Z,3.599999905,5309,NULL,NULL,data analyst
+State Street,10000,3.400000095,2986,Bengaluru,"Corporate Programs Analyst, AVP (onsite)",2025-08-25T19:18:24.644Z,3.400000095,2986,NULL,Karnataka,data analyst
+Genpact,10000,3.799999952,7805,Kolkata,Business Analyst - Technical Support Engineer,2025-08-26T11:06:22.314Z,3.799999952,7805,NULL,West Bengal,data analyst
+Corpay,10000,3.099999905,927,Chennai,Finance & Strategy Analyst,2025-08-26T10:08:47.167Z,3.099999905,927,NULL,Tamil Nadu,data analyst
+Ameriprise India,10000,3.700000048,1621,Noida,Senior Risk Analyst,2025-08-26T07:54:24.037Z,3.700000048,1621,NULL,Uttar Pradesh,data analyst
+HSBC,10000,4,16009,Hyderabad,Business Intelligence Visualisation Development,2025-08-26T12:42:18.402Z,4,16009,NULL,Telangana,data analyst
+Paytm,1001,3.799999952,365,Noida,Product Analyst - Team Lead - Risk,2025-08-26T10:11:54.592Z,3.799999952,365,NULL,Uttar Pradesh,data analyst
+Amex,10000,4.099999905,9561,Gurugram,Analyst-Compliance: Platform/Operations Administration,2025-08-26T10:16:28.808Z,4.099999905,9561,NULL,Haryana,data analyst
+NatWest,10000,3.799999952,1154,Bengaluru,Risk Modelling Lead Analyst,2025-08-26T08:17:38.985Z,3.799999952,1154,NULL,Karnataka,data analyst
+Paytm,1001,3.799999952,365,Noida,Business Analyst - Deputy Manager - EDC Devices,2025-08-26T10:10:53.102Z,3.799999952,365,NULL,Uttar Pradesh,data analyst
+Okta,5001,3.900000095,67,Bengaluru,Senior Salesforce Product Analyst,2025-08-26T04:59:38.282Z,3.900000095,67,NULL,Karnataka,data analyst
+ADCI - BLR 14 SEZ - F07,10000,3.5,53749,Bengaluru,"Business Research Analyst – I, ARTS",2025-08-26T14:51:29.355Z,3.5,53748,NULL,Karnataka,data analyst
+HITACHI ENERGY TECHNOLOGY SERVICES PRIVATE LIMITED,10000,3.599999905,141,Chennai,Senior Business Intelligence specialist,2025-08-25T20:18:12.052Z,3.599999905,141,NULL,Tamil Nadu,data analyst
+PwC,1001,3.900000095,10065,Bengaluru,IN-Senior Associate_Scrum Master_Data and Analytics_Advisory_Bangalore,2025-08-26T07:12:28.340Z,3.900000095,10065,NULL,Karnataka,data analyst
+HSBC,10000,4,16009,Hyderabad,Senior Business Analyst,2025-08-26T12:42:28.583Z,4,16009,NULL,Telangana,data analyst
+Citi,10000,3.900000095,20341,Mumbai,Liquidity Mgmt Analyst 2,2025-08-26T04:02:32.140Z,3.900000095,20341,NULL,Maharashtra,data analyst
+Mastercard,10000,4,817,Gurugram,Senior Business Analyst - Revenue Systems Ops,2025-08-25T20:47:07.198Z,4,817,NULL,Haryana,data analyst
+Educational Testing Service (ETS),1001,3.700000048,565,Delhi,Senior Financial Analyst,2025-08-25T17:34:02.175Z,3.700000048,565,NULL,Delhi,data analyst
+Elastic,NULL,3.799999952,33,Bengaluru,"Sr. Business Systems Analyst, Cloud",2025-08-25T20:27:13.133Z,3.799999952,33,NULL,Karnataka,data analyst
+Mahindra & Mahindra Ltd,10000,4.199999809,1471,Chennai,Principal Engineer- Powertrain Data Analytics,2025-08-26T10:48:32.625Z,4.199999809,1471,NULL,Tamil Nadu,data analyst
+Cushman & Wakefield,10000,3.599999905,2267,Bengaluru,Senior BI Analyst - Power BI Developer | Bangalore,2025-08-26T09:22:37.740Z,3.599999905,2267,NULL,Karnataka,data analyst
+ADCI HYD 13 SEZ,10000,3.5,53749,Hyderabad,Sr. Business Intelligence Engineer,2025-08-26T07:51:30.867Z,3.5,53748,NULL,Telangana,data analyst
+Bread Financial,5001,4.099999905,2309,Bengaluru,Model Validation Analyst Senior,2025-08-26T04:08:15.926Z,4.099999905,2309,NULL,Karnataka,data analyst
+Wood Mackenzie Limited,1001,4,53,Gurugram,Principal Research Analyst - Fibres,2025-08-25T18:00:29.716Z,4,53,NULL,Haryana,data analyst
+Citi,10000,3.900000095,20341,Mumbai,Credit Risk Intermediate Analyst - Officer,2025-08-26T04:02:35.537Z,3.900000095,20341,NULL,Maharashtra,data analyst
+Genpact,10000,3.799999952,7805,Kolkata,"Lead Consultant, Power BI Developer",2025-08-26T05:08:00.718Z,3.799999952,7805,NULL,West Bengal,data analyst
+General Mills,10000,3.799999952,3090,Powai,Sr. D&T Analyst – Supply Chain,2025-08-26T00:14:59.232Z,3.799999952,3090,NULL,"Mumbai, Maharashtra",data analyst
+PwC,1001,3.900000095,10065,Kolkata,IN-Senior Associate_Azure Data Engineer_Data & Analytics_Advisory_Kolkata,2025-08-26T07:12:28.722Z,3.900000095,10065,NULL,West Bengal,data analyst
+Deutsche Bank,10000,3.799999952,3447,Mumbai,Business Finance Senior Analyst,2025-08-25T19:57:25.880Z,3.799999952,3447,NULL,Maharashtra,data analyst
+"RealPage, Inc.",5001,3.299999952,575,Telangana,Financial Analyst III,2025-08-25T16:56:51.470Z,3.299999952,575,NULL,NULL,data analyst
+Novartis,10000,4.099999905,4401,Hyderabad,Business Intelligence Lead,2025-08-25T15:23:27.182Z,4.099999905,4401,NULL,Telangana,data analyst
+JPMorganChase,10000,3.900000095,20091,Mumbai,Quant Analytics Senior Associate,2025-08-26T08:15:54.658Z,3.900000095,20091,NULL,Maharashtra,data analyst
+The Cigna Group,10000,3.599999905,5309,Andhra Pradesh,Automation Engineer Lead Analyst - HIH - Evernorth,2025-08-26T11:43:18.808Z,3.599999905,5309,NULL,NULL,data analyst
+TSYS Card Tech Services India LLP,10000,3.200000048,129,Pune,IT Service & Incident Analyst,2025-08-26T10:12:51.144Z,3.200000048,129,NULL,Maharashtra,data analyst
+HITACHI ENERGY TECHNOLOGY SERVICES PRIVATE LIMITED,10000,3.599999905,141,Chennai,Senior Business Intelligence specialist,2025-08-25T20:18:12.052Z,3.599999905,141,NULL,Tamil Nadu,data analyst
+Hitachi,201,3.700000048,1833,Remote,Business Intelligence Analyst - Hitachi Industrial Equipment Systems India,2025-08-25T12:51:20.414Z,3.700000048,1833,NULL,NULL,data analyst
+Deloitte,10000,3.900000095,13896,Delhi,"Consultant | Business Analyst | Delhi | Operations, Industry & Domain Solutions",2025-08-25T06:42:22.645Z,3.900000095,13896,NULL,NULL,data analyst
+Educational Testing Service (ETS),1001,3.700000048,565,Delhi,Senior Financial Analyst,2025-08-25T17:34:02.175Z,3.700000048,565,NULL,Delhi,data analyst
+NatWest,10000,3.799999952,1154,Bengaluru,Risk Modelling Lead Analyst,2025-08-26T08:17:38.985Z,3.799999952,1154,NULL,Karnataka,data analyst
+Genpact,10000,3.799999952,7805,Kolkata,Business Analyst - Technical Support Engineer,2025-08-26T11:06:22.314Z,3.799999952,7805,NULL,West Bengal,data analyst
+Dentsu,10000,3.599999905,355,Anna Nagar,Business Intelligence Analyst,2025-08-25T08:14:53.461Z,3.599999905,355,NULL,"Chennai, Tamil Nadu",data analyst
+Amazon Pay (India) Private Limited,10000,3.5,53749,Bengaluru,"Business Analyst, INPAY Data Products Team",2025-08-25T07:52:01.228Z,3.5,53748,NULL,Karnataka,data analyst
+RELX,1001,3.799999952,129,Mumbai,Senior Business Analyst I,2025-08-25T08:10:57.880Z,3.799999952,129,NULL,Maharashtra,data analyst
+Rackspace,5001,3.799999952,449,Remote,Financial Analyst III - IN,2025-08-25T11:26:12.424Z,3.799999952,449,NULL,NULL,data analyst
+Luxoft,10000,4.5,665,Bengaluru,Senior Technical Business Analyst - IntelliMatch Reconciliation,2025-08-25T06:22:49.617Z,4.5,665,NULL,Karnataka,data analyst
+Amex,10000,4.099999905,9561,Gurugram,Analyst-Risk Management,2025-08-25T10:17:07.081Z,4.099999905,9561,NULL,Haryana,data analyst
+Deloitte,10000,3.900000095,13896,Delhi,"Analyst | Data Scientist | Delhi | Operations, Industry & Domain Solutions",2025-08-25T12:40:16.856Z,3.900000095,13896,NULL,NULL,data analyst
+Solventum,10000,3.799999952,61,Bengaluru,Data Analytics Business Analyst Lead - MedSurg & HIS,2025-08-25T13:08:35.888Z,3.799999952,61,NULL,Karnataka,data analyst
+Solventum,10000,3.799999952,61,Bengaluru,Data Analytics Senior POD Specialist - Commercial Operations,2025-08-25T13:08:36.685Z,3.799999952,61,NULL,Karnataka,data analyst
+Cushman & Wakefield,10000,3.599999905,2267,Hyderabad,Analyst,2025-08-25T07:31:56.566Z,3.599999905,2267,NULL,Telangana,data analyst
+"AMETEK, Inc.",10000,3.299999952,603,Bengaluru,Power BI Developer and Administrator,2025-08-25T10:56:25.757Z,3.299999952,603,NULL,Karnataka,data analyst
+Dentsu,10000,3.599999905,355,Anna Nagar,Business Intelligence Specialist,2025-08-25T08:15:36.025Z,3.599999905,355,NULL,"Chennai, Tamil Nadu",data analyst
+Sapiens,1001,3.200000048,42,Bengaluru,Business Analyst,2025-08-25T10:13:08.906Z,3.200000048,42,NULL,Karnataka,data analyst
+ASSPL - Karnataka,10000,3.5,53749,Bengaluru,"Business Intelligence Engineer, Delivery Experience",2025-08-26T21:51:28.203Z,3.5,53748,NULL,Karnataka,data analyst
+Accelya,1001,3.599999905,102,Mumbai,Senior Analyst - Solution Engineering,2025-08-25T09:54:32.261Z,3.599999905,102,NULL,Maharashtra,data analyst
+Ascensus,5001,3.099999905,301,Chennai,Senior Financial Analyst,2025-08-26T16:46:22.131Z,3.099999905,301,NULL,Tamil Nadu,data analyst
+Wipro Limited,10000,3.799999952,16925,Mumbai,Risk Comp and Governance Analyst - L3,2025-08-27T12:18:46.079Z,3.799999952,16925,NULL,Maharashtra,data analyst
+Solventum,10000,3.799999952,61,Bengaluru,Data Analytics Sr Data Engineer,2025-08-25T13:08:36.665Z,3.799999952,61,NULL,Karnataka,data analyst
+Dentsu,10000,3.599999905,355,Anna Nagar,Business Intelligence Specialist,2025-08-25T08:15:36.025Z,3.599999905,355,NULL,"Chennai, Tamil Nadu",data analyst
+Skyworks,5001,3.700000048,353,Bengaluru,Principal Business Systems Analyst 1,2025-08-25T06:14:57.938Z,3.700000048,353,NULL,Karnataka,data analyst
+Amex,10000,4.099999905,9561,Gurugram,Analyst-Risk Management,2025-08-25T10:17:07.081Z,4.099999905,9561,NULL,Haryana,data analyst
+Hitachi,201,3.700000048,1833,Chennai,Senior Business Intelligence specialist,2025-08-25T12:51:17.300Z,3.700000048,1833,NULL,Tamil Nadu,data analyst
+Solventum,10000,3.799999952,61,Bengaluru,Data Analytics Solution Architect,2025-08-25T13:08:36.322Z,3.799999952,61,NULL,Karnataka,data analyst
+Solventum,10000,3.799999952,61,Bengaluru,Data Analytics Information Architect,2025-08-25T13:08:35.732Z,3.799999952,61,NULL,Karnataka,data analyst
+PwC,1001,3.900000095,10065,Kolkata,IN-Senior Associate_Automation QA_Data & Analytics_Advisory_PAN India,2025-08-25T13:14:24.734Z,3.900000095,10065,NULL,West Bengal,data analyst
+Genpact,10000,3.799999952,7805,Noida,Principal Consultant - Business Analyst,2025-08-26T17:18:29.720Z,3.799999952,7805,NULL,Uttar Pradesh,data analyst
+Risk Solutions,NULL,3.799999952,222,Mumbai,Senior Business Analyst I,2025-08-25T08:09:21.825Z,3.799999952,222,NULL,Maharashtra,data analyst
+Luxoft,10000,4.5,665,Bengaluru,Senior Technical Business Analyst - IntelliMatch Reconciliation,2025-08-25T06:22:49.617Z,4.5,665,NULL,Karnataka,data analyst
+Eaton,10000,3.700000048,5632,Pune,Analyst - Indirect Tax,2025-08-24T15:07:01.421Z,3.700000048,5632,NULL,Maharashtra,data analyst
+Siemens,10000,4,11313,Thane,IT Solution Expert – Process Analyst,2025-08-23T15:22:03.697Z,4,11313,NULL,Maharashtra,data analyst
+S&P Global,10000,3.900000095,1626,Ahmedabad,Lead Data Analyst,2025-08-30T02:41:38.322Z,3.900000095,1626,NULL,Gujarat,data scientist
+PwC,1001,3.900000095,10065,Bengaluru,IN-Senior Associate_Business Analyst _Data & Analytics_Advisory_PAN India,2025-08-30T01:11:55.919Z,3.900000095,10065,NULL,Karnataka,data scientist
+Citi,10000,3.900000095,20341,Bengaluru,Data and Information analytics-Assistant Vice President,2025-08-30T04:03:17.468Z,3.900000095,20341,NULL,Karnataka,data scientist
+General Mills,10000,3.799999952,3090,Mumbai,"Analyst - Business Intelligence, GIC SC Analytics",2025-08-30T00:14:57.714Z,3.799999952,3090,NULL,Maharashtra,data scientist
+Citi,10000,3.900000095,20341,Pune,Data Engineer,2025-08-30T04:03:18.036Z,3.900000095,20341,NULL,Maharashtra,data scientist
+Deutsche Bank,10000,3.799999952,3447,Mumbai,Business Finance Analyst,2025-08-30T01:56:43.463Z,3.799999952,3447,NULL,Maharashtra,data scientist
+Citi,10000,3.900000095,20341,Bengaluru,Specialized Analytics Sr. Mgr - C13 - Bangalore,2025-08-30T04:03:15.359Z,3.900000095,20341,NULL,Karnataka,data scientist
+Citi,10000,3.900000095,20341,Bengaluru,Specialized Analytics Sr Anlst - C12 - BANGALORE,2025-08-30T04:03:14.084Z,3.900000095,20341,NULL,Karnataka,data scientist
+Citi,10000,3.900000095,20341,Pune,Lead Data Engineer - Vice President,2025-08-30T04:03:12.797Z,3.900000095,20341,NULL,Maharashtra,data scientist
+Citi,10000,3.900000095,20341,Pune,IT Business Lead Analyst - Vice President,2025-08-30T04:03:15.905Z,3.900000095,20341,NULL,Maharashtra,data scientist
+Principal Global Services,NULL,4.099999905,59,Pune,Data Analyst,2025-08-30T00:14:47.905Z,4.099999905,59,NULL,Maharashtra,data scientist
+Deutsche Bank,10000,3.799999952,3447,Bengaluru,"Reference Data Analyst, NCT",2025-08-30T01:56:53.263Z,3.799999952,3447,NULL,Karnataka,data scientist
+Principal Global Services,NULL,4.099999905,59,Pune,Senior Data Analyst,2025-08-30T00:14:48.185Z,4.099999905,59,NULL,Maharashtra,data scientist
+ADCI HYD 16 SEZ,10000,3.5,53749,Bengaluru,"Business Analyst I, TSE Analytics",2025-08-29T21:53:29.526Z,3.5,53748,NULL,Karnataka,data scientist
+Optum,10000,3.299999952,6942,Gurugram,Senior Data Analyst,2025-08-29T22:50:14.771Z,3.299999952,6942,NULL,Haryana,data scientist
+ADCI - Haryana,10000,3.5,53749,Gurugram,"Data Associate (French), Alexa Shopping Operations",2025-08-29T21:53:35.922Z,3.5,53748,NULL,Haryana,data scientist
+ADCI MAA 12 SEZ,10000,3.5,53749,Chennai,"Quality Specialist, AGI Data Services",2025-08-29T21:53:09.018Z,3.5,53748,NULL,Tamil Nadu,data scientist
+ADCI MAA 12 SEZ,10000,3.5,53749,Chennai,"Quality Auditor, AGI Data Services",2025-08-29T21:53:15.096Z,3.5,53748,NULL,Tamil Nadu,data scientist
+AWS ProServe IN - Karnataka,NULL,3.400000095,514,Mumbai,Data Scientist - AWS Professional Services,2025-08-29T21:51:46.904Z,3.400000095,514,NULL,Maharashtra,data scientist
+ASSPL - Telangana,10000,3.5,53749,Bengaluru,"Business Analyst II, AOP",2025-08-29T21:53:57.352Z,3.5,53748,NULL,Karnataka,data scientist
+ADCI HYD 20 SEZ,10000,3.5,53749,Bengaluru,"Business Analyst, Fraud And Abuse Prevention",2025-08-29T21:53:52.562Z,3.5,53748,NULL,Karnataka,data scientist
+PayPal,10000,3.799999952,1944,Bengaluru,Sr Data Scientist,2025-08-30T00:02:04.099Z,3.799999952,1944,NULL,Karnataka,data scientist
+PayPal,10000,3.799999952,1944,Bengaluru,"Manager, Data Science",2025-08-30T00:02:01.327Z,3.799999952,1944,NULL,Karnataka,data scientist
+ADCI - Uttar Pradesh - F26,10000,3.5,53749,Uttar Pradesh,"Associate, ML Data Operations, GO-AI Operations",2025-08-29T21:54:02.419Z,3.5,53748,NULL,NULL,data scientist
+Virtusa,10000,3.700000048,1059,Bengaluru,Data BSA,2025-08-29T19:05:16.676Z,3.700000048,1059,NULL,Karnataka,data scientist
+ADCI HYD 13 SEZ - H84,10000,3.5,53749,Hyderabad,"Program Manager, Last Mile Analytics and Quality",2025-08-29T21:53:42.400Z,3.5,53748,NULL,Telangana,data scientist
+Sanofi,10000,4,5140,Hyderabad,Data Analytics - Analyst,2025-08-30T05:01:29.226Z,4,5140,NULL,Telangana,data scientist
+Citi,10000,3.900000095,20341,Chennai,Data Analytics- SAS/ SQL - C10 - CHENNAI,2025-08-30T04:03:20.625Z,3.900000095,20341,NULL,Tamil Nadu,data scientist
+ADCI - Karnataka,10000,3.5,53749,Hyderabad,"Business Intelligence Engineer, Last Mile Analytics",2025-08-29T21:52:44.559Z,3.5,53748,NULL,Telangana,data scientist
+ADCI - Tamil Nadu,10000,3.5,53749,Chennai,"Business Intelligence Manager, Amazon",2025-08-29T21:52:27.072Z,3.5,53748,NULL,Tamil Nadu,data scientist
+ASSPL - Karnataka,10000,3.5,53749,Bengaluru,"Business Intelligence Engineer, ROW Supply Chain Analytics, Research and Product",2025-08-29T21:53:50.467Z,3.5,53748,NULL,Karnataka,data scientist
+Amazon Pay (India) Private Limited,10000,3.5,53749,Bengaluru,"Senior Product Manager, Tech (Data Science), Data Products @AmazonPay",2025-08-29T21:53:50.388Z,3.5,53748,NULL,Karnataka,data scientist
+ADCI - BLR 14 SEZ,10000,3.5,53749,Chennai,"Business Intelligence Engineer, RBS Brand Experience",2025-08-29T21:53:30.354Z,3.5,53748,NULL,Tamil Nadu,data scientist
+ADCI HYD 16 SEZ,10000,3.5,53749,Hyderabad,"Business Analyst II, Selling Partner Identity Verification",2025-08-29T21:51:46.955Z,3.5,53748,NULL,Telangana,data scientist
+ADCI - BLR 14 SEZ,10000,3.5,53749,Chennai,"Business Research Analyst II, RBS Size/Fit",2025-08-29T21:53:25.085Z,3.5,53748,NULL,Tamil Nadu,data scientist
+Optum,10000,3.299999952,6942,Mumbai,Senior Data Scientist,2025-08-29T22:50:14.386Z,3.299999952,6942,NULL,Maharashtra,data scientist
+UST Global,10000,3.700000048,1046,Pune,Business Analyst – Data Visa & Regulatory Compliance,2025-08-29T13:07:57.294Z,3.700000048,1046,NULL,Maharashtra,data scientist
+Dassault Systèmes,10000,4,452,Pune,Big Data Engineer,2025-08-29T16:10:17.967Z,4,452,NULL,Maharashtra,data scientist
+Thermo Fisher Scientific,10000,3.400000095,5326,Andhra Pradesh,Lead Data Engineer,2025-08-29T22:05:54.360Z,3.400000095,5326,NULL,NULL,data scientist
+Genpact,10000,3.799999952,7805,Kolkata,Business Analyst - Order Entry Analyst,2025-08-29T23:06:21.643Z,3.799999952,7805,NULL,West Bengal,data scientist
+JLL,10000,3.700000048,3771,Gurugram,Analyst - Financial Management,2025-08-29T20:03:38.953Z,3.700000048,3771,NULL,Haryana,data scientist
+AT&T,10000,3.700000048,49906,Bengaluru,Analyst Data/AI Engineering (Devops Engineer),2025-08-29T21:31:32.521Z,3.700000048,49906,NULL,Karnataka,data scientist
+LSEG (London Stock Exchange Group),10000,3.700000048,383,Bengaluru,Analyst - Equity Index Data Management,2025-08-29T14:30:01.256Z,3.700000048,383,NULL,Karnataka,data scientist
+Innover,1001,4.599999905,31,Bengaluru,Lead Data Analyst,2025-08-29T15:04:15.270Z,4.599999905,31,NULL,Karnataka,data scientist
+Barclays,10000,3.900000095,6857,Pune,Data Analyst,2025-08-29T15:47:45.657Z,3.900000095,6857,NULL,Maharashtra,data scientist
+Experian,10000,3.599999905,1405,Hyderabad,Junior Data/Platform Engineer,2025-08-29T19:21:06.769Z,3.599999905,1405,NULL,Telangana,data scientist
+Target,10000,3.5,79140,Bengaluru,Data Analyst,2025-08-29T19:07:54.943Z,3.5,79135,NULL,Karnataka,data scientist
+Honeywell,10000,3.700000048,10855,Bengaluru,Data Management Specialist I,2025-08-29T14:50:05.260Z,3.700000048,10855,NULL,Karnataka,data scientist
+Caterpillar,10000,3.799999952,8733,Bengaluru,Digital Product Owner (Data Analyst),2025-08-29T19:00:15.051Z,3.799999952,8733,NULL,Karnataka,data scientist
+ADCI HYD 20 SEZ - H94,10000,3.5,53749,Bengaluru,"Business Analyst, Sales Abuse Prevention",2025-08-29T21:53:52.019Z,3.5,53748,NULL,Karnataka,data scientist
+ADCI - Karnataka,10000,3.5,53749,Bengaluru,"Business Research Analyst, RBS",2025-08-29T21:51:48.192Z,3.5,53748,NULL,Karnataka,data scientist
+AWS ProServe IN - Karnataka,NULL,3.400000095,514,Mumbai,Senior Data Scientist - AWS Professional Services,2025-08-29T21:52:43.377Z,3.400000095,514,NULL,Maharashtra,data scientist
+NTT DATA,10000,3.5,4808,Bengaluru,Enterprise Resource Planning Advisor,2025-08-29T22:54:16.670Z,3.5,4808,NULL,Karnataka,data scientist
+Microsoft,10000,4.199999809,8820,Bengaluru,Senior Data Scientist,2025-08-29T13:48:39.427Z,4.199999809,8820,NULL,Karnataka,data scientist
+HSBC,10000,4,16009,Pune,Data Analyst / CONSULTANT SPECIALIST,2025-08-29T12:42:13.725Z,4,16009,NULL,Maharashtra,data scientist
+World Bank Group,1001,4.300000191,959,Chennai,Business Process Analyst,2025-08-29T19:38:20.420Z,4.300000191,959,NULL,Tamil Nadu,data scientist
+Hurix Systems Pvt. Ltd.,201,3.5,74,Remote,"Subject Matter Expert – Business Analyst, Operations Analyst",2025-08-29T17:26:29.276Z,3.5,74,NULL,NULL,data scientist
+Deloitte,10000,3.900000095,13896,Bengaluru,Data Engineer- Sr. Con,2025-08-29T19:04:34.052Z,3.900000095,13896,NULL,Karnataka,data scientist
+NTT DATA,10000,3.5,4808,Bengaluru,ETL Developer,2025-08-29T22:54:16.471Z,3.5,4808,NULL,Karnataka,data scientist
+Deloitte,10000,3.900000095,13896,Delhi,"Consultant | IT Assurance_Audit | Delhi | IT, Data & Analytics",2025-08-29T12:41:45.740Z,3.900000095,13896,NULL,NULL,data scientist
+PayPal,10000,3.799999952,1944,Bengaluru,Staff Machine Learning Engineer,2025-08-30T00:02:04.636Z,3.799999952,1944,NULL,Karnataka,data scientist
+Honeywell,10000,3.700000048,10855,Bengaluru,Data Scientist I,2025-08-29T14:50:06.941Z,3.700000048,10855,NULL,Karnataka,data scientist
+NTT DATA,10000,3.5,4808,Bengaluru,Senior Data Analyst (HRIS),2025-08-29T22:54:15.598Z,3.5,4808,NULL,Karnataka,data scientist
+LSEG (London Stock Exchange Group),10000,3.700000048,383,Bengaluru,Senior Analyst - Equitiy Index Data Management,2025-08-29T20:29:32.512Z,3.700000048,383,NULL,Karnataka,data scientist
+Experian,10000,3.599999905,1405,Hyderabad,Senior Data/Platform Engineer,2025-08-29T19:14:30.801Z,3.599999905,1405,NULL,Telangana,data scientist
+KPMG,10000,3.900000095,9589,Pune,Manager - Data Governance,2025-08-29T12:56:29.120Z,3.900000095,9589,NULL,Maharashtra,data scientist
+Infogain,5001,3.5,214,Bengaluru,Analytics Developer (Senior),2025-08-30T05:17:34.913Z,3.5,214,NULL,Karnataka,data scientist
+Novonesis,5001,3.900000095,384,Bengaluru,Data Analyst,2025-08-29T16:25:31.738Z,3.900000095,384,NULL,Karnataka,data scientist
+Iris Software,1001,2.900000095,99,Noida,Data Science - Intern,2025-08-29T13:45:01.961Z,2.900000095,99,NULL,Uttar Pradesh,data scientist
+Signify,10000,3.799999952,331,Bengaluru,Business Analyst,2025-08-29T12:16:01.846Z,3.799999952,331,NULL,Karnataka,data scientist
+Ventura Securities,11,3.700000048,106,Thane,Data Engineering Internship,2025-08-29T18:40:33.725Z,3.700000048,106,NULL,Maharashtra,data scientist
+Colgate-Palmolive,10000,4.300000191,2782,Mumbai,Senior Data Scientist - Global Data and Analytics (168856),2025-08-30T01:43:41.065Z,4.300000191,2782,NULL,Maharashtra,data scientist
+"KYYBA, Inc",201,3.799999952,39,Bengaluru,Data Engineer,2025-08-29T19:10:48.418Z,3.799999952,39,NULL,Karnataka,data scientist
+NielsenIQ,10000,3.599999905,155,Vadodara,Sr. Data Scientist,2025-08-29T20:45:36.548Z,3.599999905,155,NULL,Gujarat,data scientist
+Thermo Fisher Scientific,10000,3.400000095,5326,Bengaluru,Business Intelligence Engineer III,2025-08-29T22:06:23.097Z,3.400000095,5326,NULL,Karnataka,data scientist
+Barclays,10000,3.900000095,6857,Pune,Machine Learning Engineer,2025-08-29T21:51:25.279Z,3.900000095,6857,NULL,Maharashtra,data scientist
+Target,10000,3.5,79140,Bengaluru,Sr Manager Product Ops Analytics - Stores,2025-08-29T19:07:54.434Z,3.5,79135,NULL,Karnataka,data scientist
+Genpact,10000,3.799999952,7805,Kolkata,Business Analyst - Pre-Sales Support Analyst,2025-08-29T23:06:16.971Z,3.799999952,7805,NULL,West Bengal,data scientist
+Deloitte,10000,3.900000095,13896,Bengaluru,Data Scientist- Sr.Consultant / Consultant,2025-08-29T19:04:30.488Z,3.900000095,13896,NULL,Karnataka,data scientist
+Infineon Technologies,10000,4,747,Bengaluru,Staff Specialist /Data Analyst,2025-08-29T15:05:16.844Z,4,747,NULL,Karnataka,data scientist
+Lowe's,NULL,NULL,NULL,Bengaluru,Senior Analyst - Analytics & Business Finance,2025-08-29T23:23:20.575Z,3.400000095,59794,NULL,Karnataka,data scientist
+Expedia Group,10000,3.799999952,1203,Bengaluru,Machine Learning Scientist,2025-08-29T23:47:41.040Z,3.799999952,1203,NULL,Karnataka,data scientist
+Expedia Group,10000,3.799999952,1203,Bengaluru,"Senior Manager, Machine Learning Science",2025-08-29T23:47:41.082Z,3.799999952,1203,NULL,Karnataka,data scientist
+GXO Logistics,10000,2.799999952,2159,Mumbai,"Lead Analyst, Financial systems - GOSC",2025-08-29T20:59:52.112Z,2.799999952,2159,NULL,Maharashtra,data scientist
+Expedia Group,10000,3.799999952,1203,Bengaluru,Machine Learning Scientist II,2025-08-29T23:47:41.840Z,3.799999952,1203,NULL,Karnataka,data scientist
+Syneos - Clinical and Corporate - Prod,10000,3.5,996,Pune,Business Analyst Sales Operations I,2025-08-29T20:17:27.783Z,3.5,996,NULL,Maharashtra,data scientist
+Accenture,10000,4,28094,Hyderabad,Data Insights & Visualization Practition,2025-08-29T16:46:10.714Z,4,28093,NULL,Telangana,data scientist
+ADCI HYD 16 SEZ - H83,10000,3.5,53749,Hyderabad,ML Data Associate-II,2025-08-29T14:51:19.839Z,3.5,53748,NULL,Telangana,data scientist
+"Fiserv, Inc.",10000,3.299999952,7029,Pune,Data Engineer,2025-08-29T13:11:27.542Z,3.299999952,7029,NULL,Maharashtra,data scientist
+Innover,1001,4.599999905,31,Bengaluru,Data Engineer,2025-08-29T15:03:39.034Z,4.599999905,31,NULL,Karnataka,data scientist
+Optum,10000,3.299999952,6942,Gurugram,Financial Analyst,2025-08-29T16:50:15.187Z,3.299999952,6942,NULL,Haryana,data scientist
+Accenture,10000,4,28094,Bengaluru,Financial Plan & Analysis Analyst,2025-08-29T16:46:07.273Z,4,28093,NULL,Karnataka,data scientist
+Barclays,10000,3.900000095,6857,Pune,Data Analyst,2025-08-29T16:02:19.262Z,3.900000095,6857,NULL,Maharashtra,data scientist
+NTT DATA,10000,3.5,4808,Chennai,Data Engineer - Azure,2025-08-29T16:19:31.137Z,3.5,4808,NULL,Tamil Nadu,data scientist
+NTT DATA,10000,3.5,4808,Bengaluru,AI Data Engineer,2025-08-29T16:19:25.114Z,3.5,4808,NULL,Karnataka,data scientist
+ADCI MAA 12 SEZ,10000,3.5,53749,Chennai,ML Data Associate-II,2025-08-29T14:51:20.407Z,3.5,53748,NULL,Tamil Nadu,data scientist
+Gap Inc.,10000,3.700000048,3721,Hyderabad,Data Scientist,2025-08-29T16:02:59.660Z,3.700000048,3721,NULL,Telangana,data scientist
+Elsevier,5001,3.799999952,768,Chennai,Senior Data Analyst I,2025-08-29T14:07:59.450Z,3.799999952,768,NULL,Tamil Nadu,data scientist
+NTT DATA,10000,3.5,4808,Chennai,Conversational AI Dev,2025-08-29T16:19:30.671Z,3.5,4808,NULL,Tamil Nadu,data scientist
+Moody's,NULL,NULL,NULL,Gurugram,Financial Data Specialist,2025-08-29T15:27:15.424Z,3.599999905,578,NULL,Haryana,data scientist
+Ecolab Inc.,10000,3.5,4184,Bengaluru,Data Quality Analyst,2025-08-29T13:09:16.100Z,3.5,4184,NULL,Karnataka,data scientist
+Barclays,10000,3.900000095,6857,Chennai,Analyst IB finance,2025-08-29T16:02:14.626Z,3.900000095,6857,NULL,Tamil Nadu,data scientist
+HSBC,10000,4,16009,Pune,"MS Excel VBA, MS Access, SQL queries / Senior Consultant Specialist",2025-08-29T18:42:01.805Z,4,16009,NULL,Maharashtra,data scientist
+Moody's,NULL,NULL,NULL,Bengaluru,Team Lead-Fin Data & Analytics,2025-08-29T15:27:14.085Z,3.599999905,578,NULL,Karnataka,data scientist
+Ecolab Inc.,10000,3.5,4184,Pune,Associate Financial Analyst I,2025-08-29T13:09:18.665Z,3.5,4184,NULL,Maharashtra,data scientist
+Moody's,NULL,NULL,NULL,Bengaluru,Mgr-Fin Data & Analytics,2025-08-29T15:27:13.881Z,3.599999905,578,NULL,Karnataka,data scientist
+ADCI MAA 15 SEZ,10000,3.5,53749,Chennai,"Data Engineer, MIDAS, Digital Acceleration",2025-08-29T14:51:19.357Z,3.5,53748,NULL,Tamil Nadu,data scientist
+RELX,1001,3.799999952,129,Chennai,Senior Data Analyst I,2025-08-29T14:10:21.758Z,3.799999952,129,NULL,Tamil Nadu,data scientist
+Brillio,1001,3.400000095,174,Bengaluru,Senior Data Engineer – R01554004,2025-08-29T17:57:18.792Z,3.400000095,174,NULL,Karnataka,data scientist
+Apps Associates,501,3.299999952,30,Gurugram,Data Engineer,2025-08-29T12:38:48.251Z,3.299999952,30,NULL,Haryana,data scientist
+HSBC,10000,4,16009,Pune,Business Analyst,2025-08-29T12:43:00.104Z,4,16009,NULL,Maharashtra,data scientist
+Sapiens,1001,3.200000048,42,Bengaluru,Business Analyst,2025-08-29T16:09:23.972Z,3.200000048,42,NULL,Karnataka,data scientist
+MSD,10000,4.099999905,920,Hyderabad,Jr. Analytics Engineer,2025-08-29T13:56:17.175Z,4.099999905,920,NULL,Telangana,data scientist
+Wesco,10000,3.299999952,1792,Bengaluru,Analyst - Business,2025-08-29T12:30:46.528Z,3.299999952,1792,NULL,Karnataka,data scientist
+FedEx AMEA,10000,3.5,61640,Mumbai,Senior Analyst Data Science,2025-08-29T14:02:23.808Z,3.5,61640,NULL,Maharashtra,data scientist
+Vodafone,10000,3.799999952,5709,Pune,Deputy Manager_Assistant Lead_Data Governance_Pune,2025-08-29T15:51:57.559Z,3.799999952,5709,NULL,Maharashtra,data scientist
+BirlaSoft,1001,3.799999952,462,Hyderabad,Technical Specialist-Data Engg,2025-08-29T15:47:29.555Z,3.799999952,462,NULL,Telangana,data scientist
+Amex,10000,4.099999905,9561,Gurugram,Senior Analyst - Data Governance & Management,2025-08-29T16:16:22.243Z,4.099999905,9561,NULL,Haryana,data scientist
+General Mills,10000,3.799999952,3090,Powai,"CMRA Associate Data Engineer, PCA",2025-08-29T16:15:16.835Z,3.799999952,3090,NULL,"Mumbai, Maharashtra",data scientist
+Genpact,10000,3.799999952,7805,Kolkata,Management Trainee - I2C - Reporting & Analytics,2025-08-29T14:07:01.499Z,3.799999952,7805,NULL,West Bengal,data scientist
+Ciena,5001,4,353,Gurugram,Sr. Data Platform SRE,2025-08-29T14:13:24.464Z,4,353,NULL,Haryana,data scientist
+KPMG,10000,3.900000095,9589,Bengaluru,Assistant Manager - Big Data,2025-08-29T12:56:27.591Z,3.900000095,9589,NULL,Karnataka,data scientist
+Ecolab Inc.,10000,3.5,4184,Bengaluru,11537 - Sr Data Engineer,2025-08-29T13:09:15.562Z,3.5,4184,NULL,Karnataka,data scientist
+Optum,10000,3.299999952,6942,Bengaluru,"Senior Data Engineering Analyst - ADF, Python, ETL, SQL",2025-08-29T16:50:15.464Z,3.299999952,6942,NULL,Karnataka,data scientist
+Optum,10000,3.299999952,6942,Delhi,Director Data Science,2025-08-29T16:50:15.164Z,3.299999952,6942,NULL,Delhi,data scientist
+Vodafone,10000,3.799999952,5709,Pune,Deputy Manager- Tableau Developer,2025-08-29T15:51:57.530Z,3.799999952,5709,NULL,Maharashtra,data scientist
+Vodafone,10000,3.799999952,5709,Pune,Manager_Lead_GCP Data Engineer_Pune,2025-08-29T15:51:57.509Z,3.799999952,5709,NULL,Maharashtra,data scientist
+NTT DATA,10000,3.5,4808,Gurugram,Specialist – Sales Analytics & Forecasting,2025-08-29T16:26:20.821Z,3.5,4808,NULL,Haryana,data scientist
+Capgemini,10000,3.700000048,10501,Bengaluru,"Python+SQL | 4 to 6 Years | Pune, Chennai, and Bangalore",2025-08-29T16:15:54.647Z,3.700000048,10501,NULL,Karnataka,data scientist
+Infinite Computer Solutions Ltd.,5001,3.700000048,331,Pune,Lead Business Analyst,2025-08-29T16:32:48.735Z,3.700000048,331,NULL,Maharashtra,data scientist
+Fragomen,1001,3.299999952,421,Bengaluru,Senior Business Immigration Analyst,2025-08-29T15:41:26.900Z,3.299999952,421,NULL,Karnataka,data scientist
+MetLife,10000,3.799999952,6301,Pune,Senior Data Engineer - I,2025-08-29T14:14:12.545Z,3.799999952,6301,NULL,Maharashtra,data scientist
+MetLife,10000,3.799999952,6301,Hyderabad,Senior Big Data Engineer - I,2025-08-29T14:14:22.401Z,3.799999952,6301,NULL,Telangana,data scientist
+Brillio,1001,3.400000095,174,Bengaluru,Senior Data Specialist – R01552108,2025-08-29T17:57:25.191Z,3.400000095,174,NULL,Karnataka,data scientist
+Deloitte,10000,3.900000095,13896,Hyderabad,Manager –AI & Data Solutions Engineer - Multistate Hyderabad,2025-08-29T13:03:57.274Z,3.900000095,13896,NULL,Telangana,data scientist
+NTT DATA,10000,3.5,4808,Bengaluru,AI/ML Developer with Java,2025-08-29T16:19:30.705Z,3.5,4808,NULL,Karnataka,data scientist
+Brillio,1001,3.400000095,174,Bengaluru,Senior Data Engineer (Netezza) – R01554024,2025-08-29T17:57:51.772Z,3.400000095,174,NULL,Karnataka,data scientist
+BirlaSoft,1001,3.799999952,462,Hyderabad,Sr Technical Lead-Data Engg,2025-08-29T15:46:31.237Z,3.799999952,462,NULL,Telangana,data scientist
+Genpact,10000,3.799999952,7805,Gurugram,Lead Consultant - Data Steward,2025-08-29T17:07:17.039Z,3.799999952,7805,NULL,Haryana,data scientist
+NTT DATA,10000,3.5,4808,Gurugram,Principal Specialist – Sales Analytics & Forecasting,2025-08-29T16:26:18.461Z,3.5,4808,NULL,Haryana,data scientist
+Deloitte,10000,3.900000095,13896,Bengaluru,Consultant | Oracle Analytics Cloud | Bengaluru | Oracle,2025-08-29T12:41:10.022Z,3.900000095,13896,NULL,Karnataka,data scientist
+HSBC,10000,4,16009,Pune,Business Analyst/Senior Consultant Specialist,2025-08-29T12:43:00.228Z,4,16009,NULL,Maharashtra,data scientist
+NTT DATA,10000,3.5,4808,Bengaluru,"Sr. Data Science & AIML, GenAI Lead/Engineer",2025-08-29T16:19:25.032Z,3.5,4808,NULL,Karnataka,data scientist
+Mastercard,10000,4,817,Pune,"Lead Business Analyst - ISO 20022/ISO 8583, Swift",2025-08-29T16:59:13.856Z,4,817,NULL,Maharashtra,data scientist
+CGI,10000,3.599999905,4033,Pune,Machine Learning Engineer,2025-08-29T14:24:48.881Z,3.599999905,4033,NULL,Maharashtra,data scientist
+"EPAM Systems, Inc.",10000,3.799999952,497,Chennai,Product Manager - Healthcare Payer Domain (SME) and Data,2025-08-29T17:12:20.467Z,3.799999952,497,NULL,Tamil Nadu,data scientist
+unifyCX,1001,3,71,Remote,Senior Data Engineer,2025-08-29T12:23:02.571Z,3,71,NULL,NULL,data scientist
+Luxoft,10000,4.5,665,Gurugram,Senior Functional Business Analyst,2025-08-29T12:21:38.327Z,4.5,665,NULL,Haryana,data scientist
+DHL,10000,3.599999905,29437,Mumbai,Senior Executive – Pricing,2025-08-29T16:18:41.101Z,3.599999905,29436,NULL,Maharashtra,data scientist
+Booking Holdings,10000,3.700000048,1142,Bengaluru,Business Intelligence Engineer,2025-08-29T17:37:51.443Z,3.700000048,1142,NULL,Karnataka,data scientist
+Capgemini,10000,3.700000048,10501,Pune,Business Analyst - Market Risk | 6 to 8 years | Pune & Bengaluru,2025-08-29T16:22:33.126Z,3.700000048,10501,NULL,Maharashtra,data scientist
+NTT DATA,10000,3.5,4808,Chennai,Dotnet Fullstack Senior Developer -Digital Engineering Lead Engineer,2025-08-29T16:19:30.703Z,3.5,4808,NULL,Tamil Nadu,data scientist
+"EPAM Systems, Inc.",10000,3.799999952,497,Chennai,Lead Business Analyst - .NET Development,2025-08-29T17:12:20.448Z,3.799999952,497,NULL,Tamil Nadu,data scientist
+NTT DATA,10000,3.5,4808,Hyderabad,ERP Specialist Developer - ABAP,2025-08-29T16:19:29.167Z,3.5,4808,NULL,Telangana,data scientist
+"EPAM Systems, Inc.",10000,3.799999952,497,Chennai,Lead Business Analyst,2025-08-29T17:12:21.755Z,3.799999952,497,NULL,Tamil Nadu,data scientist
+Siemens Energy,10000,3.900000095,915,Pune,Senior Procurement Analyst - Data Analytics & CP MIS,2025-08-29T15:54:43.152Z,3.900000095,915,NULL,Maharashtra,data scientist
+Vestas,10000,3.299999952,1362,Chennai,"Business Analyst, Quality, HSE & Sustainability",2025-08-29T12:16:31.404Z,3.299999952,1362,NULL,Tamil Nadu,data scientist
+NTT DATA,10000,3.5,4808,Bengaluru,ERP Senior Specialist,2025-08-29T16:19:30.627Z,3.5,4808,NULL,Karnataka,data scientist
+Solenis,1001,3.099999905,120,Hyderabad,Lead Business Analyst,2025-08-29T14:35:16.553Z,3.099999905,120,NULL,Telangana,data scientist
+Phenom People,201,4.599999905,66,Hyderabad,Product Development Engineer II - Machine Learning,2025-08-29T15:49:44.729Z,4.599999905,66,NULL,Telangana,data scientist
+Virtusa,10000,3.700000048,1059,Chennai,Data Engineer,2025-08-29T07:05:17.844Z,3.700000048,1059,NULL,Tamil Nadu,data scientist
+Honeywell,10000,3.700000048,10855,Bengaluru,Data Analyst I,2025-08-29T08:51:10.976Z,3.700000048,10855,NULL,Karnataka,data scientist
+Microsoft,10000,4.199999809,8820,Bengaluru,Data Scientist II,2025-08-29T07:47:36.617Z,4.199999809,8820,NULL,Karnataka,data scientist
+Lilly,10000,4.099999905,2204,Bengaluru,Data Analyst,2025-08-29T11:54:18.883Z,4.099999905,2204,NULL,Karnataka,data scientist
+S&P Global,10000,3.900000095,1626,Hyderabad,Data Analyst,2025-08-29T09:14:11.772Z,3.900000095,1626,NULL,Telangana,data scientist
+Innover,1001,4.599999905,31,Bengaluru,Data Analyst - Power Platform/Power Apps,2025-08-29T09:03:47.744Z,4.599999905,31,NULL,Karnataka,data scientist
+Zelis,1001,2.099999905,232,Hyderabad,Data Analysis,2025-08-29T09:05:40.105Z,2.099999905,232,NULL,Telangana,data scientist
+Wells Fargo,10000,3.599999905,47318,Bengaluru,Intern Analyst- Advanced Data & Analytics Program,2025-08-29T08:45:15.457Z,3.599999905,47317,NULL,Karnataka,data scientist
+AtkinsRéalis,10000,3.900000095,2572,Bengaluru,HR Analyst- UK- Process: Job Data Change,2025-08-29T10:39:36.480Z,3.900000095,2572,NULL,Karnataka,data scientist
+Honeywell,10000,3.700000048,10855,Bengaluru,Data Scientist II,2025-08-29T08:50:01.771Z,3.700000048,10855,NULL,Karnataka,data scientist
+Virtusa,10000,3.700000048,1059,Chennai,Business Analyst- Corporate Banking SME,2025-08-29T07:05:17.375Z,3.700000048,1059,NULL,Tamil Nadu,data scientist
+Luxoft,10000,4.5,665,Gurugram,Business Analyst - Regulatory Reporting,2025-08-29T06:21:33.007Z,4.5,665,NULL,Haryana,data scientist
+Iris Software,1001,2.900000095,99,Noida,AWS Data Engineer,2025-08-29T07:45:19.373Z,2.900000095,99,NULL,Uttar Pradesh,data scientist
+Amex,10000,4.099999905,9561,Gurugram,Sr Analyst-Data Analytics,2025-08-29T10:16:22.786Z,4.099999905,9561,NULL,Haryana,data scientist
+JPMorganChase,10000,3.900000095,20091,Hyderabad,Product Director - Data Governance,2025-08-29T08:16:43.829Z,3.900000095,20091,NULL,Telangana,data scientist
+Wells Fargo,10000,3.599999905,47318,Hyderabad,Analytics Associate,2025-08-29T08:45:18.557Z,3.599999905,47317,NULL,Telangana,data scientist
+JPMorganChase,10000,3.900000095,20091,Bengaluru,Data Scientist Lead - Fraud Analytics,2025-08-29T08:16:54.470Z,3.900000095,20091,NULL,Karnataka,data scientist
+KPMG,10000,3.900000095,9589,Bengaluru,Senior - Python+SQL,2025-08-29T06:57:22.612Z,3.900000095,9589,NULL,Karnataka,data scientist
+JPMorganChase,10000,3.900000095,20091,Bengaluru,USPB Digital - Data Analytics - Analytical Solution - Senior Associate,2025-08-29T08:16:54.250Z,3.900000095,20091,NULL,Karnataka,data scientist
+Amgen,10000,4,1840,Hyderabad,"Manager, Content Technology Data Analytics",2025-08-29T11:32:41.809Z,4,1840,NULL,Telangana,data scientist
+Lytx,201,3.400000095,48,Bengaluru,Machine Learning Engineer II,2025-08-29T10:17:58.411Z,3.400000095,48,NULL,Karnataka,data scientist
+Wipro Limited,10000,3.799999952,16925,Hyderabad,Business Analyst,2025-08-29T06:18:44.284Z,3.799999952,16925,NULL,Telangana,data scientist
+HITACHI ENERGY TECHNOLOGY SERVICES PRIVATE LIMITED,10000,3.599999905,141,Chennai,Supply Chain Analytics Entry Professional,2025-08-29T08:17:34.790Z,3.599999905,141,NULL,Tamil Nadu,data scientist
+Warner Bros. Discovery,10000,3.900000095,1016,Hyderabad,Data Engineer,2025-08-29T09:08:25.352Z,3.900000095,1016,NULL,Telangana,data scientist
+FIS Global,10000,3.400000095,2796,Pune,Senior Data Scientist (Artificial Intelligence Machine Learning),2025-08-29T11:24:13.502Z,3.400000095,2796,NULL,Maharashtra,data scientist
+FedEx AMEA,10000,3.5,61640,Chennai,Lead Data Engineer,2025-08-29T08:02:11.582Z,3.5,61640,NULL,Tamil Nadu,data scientist
+Micron,10000,3.700000048,1414,Hyderabad,Data Science Engineer-2,2025-08-29T06:48:25.288Z,3.700000048,1414,NULL,Telangana,data scientist
+Amgen,10000,4,1840,Hyderabad,Sr Manager Data Engineering,2025-08-29T11:32:43.267Z,4,1840,NULL,Telangana,data scientist
+Amgen,10000,4,1840,Hyderabad,Data Engineer - R&D Precision Medicine,2025-08-29T11:32:43.105Z,4,1840,NULL,Telangana,data scientist
+Amgen,10000,4,1840,Hyderabad,Data Management Sr Mgr,2025-08-29T11:32:41.768Z,4,1840,NULL,Telangana,data scientist
+SAP,10000,4.199999809,3036,Bengaluru,"Senior Data Scientist, SAP Enterprise Cloud Services",2025-08-29T06:36:26.754Z,4.199999809,3036,NULL,Karnataka,data scientist
+UST Global,10000,3.700000048,1046,Kolkata,Lead II - Data Science,2025-08-29T07:09:34.152Z,3.700000048,1046,NULL,West Bengal,data scientist
+Amex,10000,4.099999905,9561,Gurugram,Senior Financial Analyst,2025-08-29T10:16:22.829Z,4.099999905,9561,NULL,Haryana,data scientist
+UST Global,10000,3.700000048,1046,Kolkata,Specialist II - Data Science,2025-08-29T07:10:22.335Z,3.700000048,1046,NULL,West Bengal,data scientist
+JPMorganChase,10000,3.900000095,20091,Bengaluru,Data Architect III,2025-08-29T08:16:45.525Z,3.900000095,20091,NULL,Karnataka,data scientist
+Amgen,10000,4,1840,Hyderabad,Data Management Mgr,2025-08-29T11:32:43.394Z,4,1840,NULL,Telangana,data scientist
+Amgen,10000,4,1840,Hyderabad,Senior Manager - Patient Data Management,2025-08-29T11:32:41.878Z,4,1840,NULL,Telangana,data scientist
+NTT DATA,10000,3.5,4808,Mumbai,Senior Manager- Data Center Operations,2025-08-29T10:26:18.881Z,3.5,4808,NULL,Maharashtra,data scientist
+Amgen,10000,4,1840,Hyderabad,"Manager Information Systems, Manufacturing Data Analytics",2025-08-29T11:32:41.652Z,4,1840,NULL,Telangana,data scientist
+Amgen,10000,4,1840,Hyderabad,Senior Manager Data Engineering – Manufacturing Data & Analytics Applications,2025-08-29T11:32:41.903Z,4,1840,NULL,Telangana,data scientist
+Brillio,1001,3.400000095,174,Gurugram,Data Science Lead – R01553733,2025-08-29T11:57:20.162Z,3.400000095,174,NULL,Haryana,data scientist
+Johnson & Johnson,10000,4.199999809,8270,Bengaluru,Sr Eng Data Engineering,2025-08-29T10:01:55.662Z,4.199999809,8270,NULL,Karnataka,data scientist
+Amgen,10000,4,1840,Hyderabad,Machine Learning Engineer,2025-08-29T11:32:43.463Z,4,1840,NULL,Telangana,data scientist
+Fidelity Investments,10000,4,4947,Bengaluru,Senior Data Engineer,2025-08-29T09:26:14.053Z,4,4947,NULL,Karnataka,data scientist
+Genpact,10000,3.799999952,7805,Kolkata,Manager - I2C - Reporting & Analytics,2025-08-29T11:06:30.554Z,3.799999952,7805,NULL,West Bengal,data scientist
+Amgen,10000,4,1840,Hyderabad,Sr Associate IS Business Systems Analyst,2025-08-29T11:32:42.025Z,4,1840,NULL,Telangana,data scientist
+NTT DATA,10000,3.5,4808,Mumbai,"Senior EHS Design, In Life and Fit Out Manager",2025-08-29T10:26:18.192Z,3.5,4808,NULL,Maharashtra,data scientist
+Standard Chartered,10000,4.099999905,3266,Chennai,"Head, Balance Sheet Analytics",2025-08-29T10:37:01.574Z,4.099999905,3266,NULL,Tamil Nadu,data scientist
+AstraZeneca,10000,4,2544,Chennai,Senior Consultant -Technical Business Analyst,2025-08-29T08:43:26.843Z,4,2544,NULL,Tamil Nadu,data scientist
+Trimble,51,3.700000048,350,Chennai,People Analytics,2025-08-29T10:08:30.372Z,3.700000048,350,NULL,Tamil Nadu,data scientist
+KLA,5001,3.900000095,269,Chennai,"Analyst, Algorithm Research & Development (AI/ML)",2025-08-29T09:03:50.898Z,3.900000095,269,NULL,Tamil Nadu,data scientist
+Amgen,10000,4,1840,Hyderabad,Sr. Associate IS Business Analyst-Governance,2025-08-29T11:32:43.155Z,4,1840,NULL,Telangana,data scientist
+Adventus.io,NULL,3.5,96,Chandigarh,Manager - Data Management,2025-08-29T11:17:27.669Z,3.5,96,NULL,Chandigarh,data scientist
+Nagarro,NULL,3.700000048,89,Bengaluru,"Staff Engineer, Data Science",2025-08-29T08:49:09.150Z,3.700000048,89,NULL,Karnataka,data scientist
+PayPal,10000,3.799999952,1944,Bengaluru,"Analyst, Data Analytics",2025-08-29T00:01:43.200Z,3.799999952,1944,NULL,Karnataka,data scientist
+Amazon.com,10000,3.5,53749,Chennai,"Associate Marketing Manager, RBS Retail Efficiency",2025-08-28T16:19:56.540Z,3.5,53748,NULL,Tamil Nadu,data scientist
+Model N,NULL,3.5,30,Hyderabad,"Data Analyst- Customer Analytics (Power BI, Python, Azure)",2025-08-28T12:16:40.279Z,3.5,30,NULL,Telangana,data scientist
+Accenture,10000,4,28094,Bengaluru,Business Analyst,2025-08-29T01:16:18.547Z,4,28093,NULL,Karnataka,data scientist
+Accenture,10000,4,28094,Bengaluru,Database Administrator,2025-08-28T16:46:18.374Z,4,28093,NULL,Karnataka,data scientist
+Accenture,10000,4,28094,Kolkata,Data Engineer,2025-08-28T16:46:17.799Z,4,28093,NULL,West Bengal,data scientist
+Elsevier,5001,3.799999952,768,Chennai,Data Coordinator,2025-08-28T14:08:08.335Z,3.799999952,768,NULL,Tamil Nadu,data scientist
+"Model N, Inc.",NULL,3.5,30,Hyderabad,"Senior Data Engineer (Python, Azure Fabric, PySpark)",2025-08-28T07:01:15.847Z,3.5,30,NULL,Telangana,data scientist
+Accenture,10000,4,28094,Pune,Data Engineer,2025-08-28T16:46:17.681Z,4,28093,NULL,Maharashtra,data scientist
+Bristol-Myers Squibb,10000,4.099999905,2311,Hyderabad,HR Data Science Analyst II,2025-08-28T18:20:43.398Z,4.099999905,2311,NULL,Telangana,data scientist
+CGI,10000,3.599999905,4033,Chennai,Power BI Lead Deveveloper,2025-08-28T14:24:54.024Z,3.599999905,4033,NULL,Tamil Nadu,data scientist
+Microsoft,10000,4.199999809,8820,Hyderabad,Data Analytics,2025-08-28T12:45:18.100Z,4.199999809,8820,NULL,Telangana,data scientist
+Reinsurance Group of America,1001,4,62,Andheri East,Consultant - Data Analyst,2025-08-28T08:56:34.529Z,4,62,NULL,"Mumbai, Maharashtra",data scientist
+Zensar Technologies,5001,3.799999952,735,India,Business Analyst,2025-08-28T16:42:18.700Z,3.799999952,735,NULL,NULL,data scientist
+Johnson Controls,10000,3.599999905,8631,Pune,Data Quality Analyst,2025-08-28T17:46:46.261Z,3.599999905,8631,NULL,Maharashtra,data scientist
+BSI Financial Services,501,2.900000095,79,Gurugram,Senior Data Analyst,2025-08-28T08:56:11.410Z,2.900000095,79,NULL,Haryana,data scientist
+Bosch Group,10000,4,7384,Bengaluru,Data Engineer,2025-08-28T13:40:31.509Z,4,7384,NULL,Karnataka,data scientist
+BSI Financial Services,501,2.900000095,79,Gurugram,Senior Data Analyst,2025-08-28T08:56:12.220Z,2.900000095,79,NULL,Haryana,data scientist
+Macquarie Group Limited,10000,3.799999952,304,Gurugram,Assistant Manager - Data Science,2025-08-28T14:11:48.861Z,3.799999952,304,NULL,Haryana,data scientist
+Accenture,10000,4,28094,Hyderabad,Data Platform Engineer,2025-08-28T16:46:15.708Z,4,28093,NULL,Telangana,data scientist
+Wipro Limited,10000,3.799999952,16925,Hyderabad,Business Analyst,2025-08-28T12:18:46.553Z,3.799999952,16925,NULL,Telangana,data scientist
+PayU,1001,3.799999952,81,Gurugram,Business Analyst - Risk,2025-08-28T14:36:35.317Z,3.799999952,81,NULL,Haryana,data scientist
+ADCI HYD 13 SEZ,10000,3.5,53749,Hyderabad,"Data Engineer - FinTech, Fintech",2025-08-28T07:51:18.953Z,3.5,53748,NULL,Telangana,data scientist
+Virtusa,10000,3.700000048,1059,Chennai,Business Analyst,2025-08-28T07:05:17.926Z,3.700000048,1059,NULL,Tamil Nadu,data scientist
+Dentsu,10000,3.599999905,355,Bengaluru,Business Analyst,2025-08-28T14:13:24.717Z,3.599999905,355,NULL,Karnataka,data scientist
+ADCI - Karnataka,10000,3.5,53749,Bengaluru,"Business Analyst, FinOps, BwP/MCF",2025-08-28T07:51:18.935Z,3.5,53748,NULL,Karnataka,data scientist
+Vanderlande Industries,NULL,3.5,210,Pune,Data Engineer,2025-08-28T17:44:53.233Z,3.5,210,NULL,Maharashtra,data scientist
+Rackspace,5001,3.799999952,449,Gurugram,Job Opportunity : Data Engineer,2025-08-28T17:25:38.912Z,3.799999952,449,NULL,Haryana,data scientist
+Commonwealth Bank,10000,3.900000095,814,Bengaluru,Advanced Analytics Analyst,2025-08-28T06:49:57.264Z,3.900000095,814,NULL,Karnataka,data scientist
+Barclays,10000,3.900000095,6857,Noida,Financial Control - Analyst,2025-08-28T16:02:19.068Z,3.900000095,6857,NULL,Uttar Pradesh,data scientist
+Bechtel,10000,4.099999905,3566,Delhi,Business Analyst,2025-08-28T15:29:20.518Z,4.099999905,3566,NULL,Delhi,data scientist
+NTT DATA,10000,3.5,4808,Gurugram,Procurement Specialist,2025-08-28T20:29:42.779Z,3.5,4808,NULL,Haryana,data scientist
+NTT DATA,10000,3.5,4808,Gurugram,Finance & Accounting Analyst,2025-08-28T13:30:04.051Z,3.5,4808,NULL,Haryana,data scientist
+Wayfair,10000,3,2563,Bengaluru,"Machine Learning Scientist I, Predictive Search & Guidance",2025-08-28T17:48:18.805Z,3,2563,NULL,Karnataka,data scientist
+Accenture,10000,4,28094,Hyderabad,Data Platform Engineer,2025-08-28T16:46:19.954Z,4,28093,NULL,Telangana,data scientist
+Dell,10000,4,11768,Bengaluru,Data Science Advisor,2025-08-28T10:21:04.308Z,4,11768,NULL,Karnataka,data scientist
+Ameriprise India,10000,3.700000048,1621,Noida,Business Analyst - Marketing Operations,2025-08-29T01:54:15.527Z,3.700000048,1621,NULL,Uttar Pradesh,data scientist
+Fidelity International,5001,3.799999952,178,Bengaluru,Data Architect,2025-08-28T16:27:25.211Z,3.799999952,178,NULL,Karnataka,data scientist
+Jhpiego,1001,4.099999905,114,Maharashtra,Program and Data Coordinators- Maharashtra(Nandurbar & Jalgoan),2025-08-28T16:30:14.221Z,4.099999905,114,NULL,NULL,data scientist
+DXC Technology,10000,3.200000048,4827,Bengaluru,Analyst II Business Process Transactions,2025-08-28T10:17:22.943Z,3.200000048,4827,NULL,Karnataka,data scientist
+"Park Place Technologies, LLC",1001,3,77,Hyderabad,Database Administrator,2025-08-28T15:19:29.009Z,3,77,NULL,Telangana,data scientist
+Hitachi,201,3.700000048,1833,Chennai,Supply Chain Analytics Entry Professional,2025-08-28T18:51:46.587Z,3.700000048,1833,NULL,Tamil Nadu,data scientist
+Continental,10000,4,3379,Faridabad,"Manager Product,Pricing,BI",2025-08-28T15:41:51.619Z,4,3379,NULL,Haryana,data scientist
+PepsiCo,10000,3.700000048,21039,Hyderabad,Data Operations Engineer,2025-08-28T16:35:50.997Z,3.700000048,21038,NULL,Telangana,data scientist
+Cargill,10000,3.700000048,6296,Bengaluru,"Consultant, Data Analytics & Reporting",2025-08-28T20:32:27.554Z,3.700000048,6295,NULL,Karnataka,data scientist
+Cummins Inc.,10000,3.799999952,5084,Pune,Business Intelligence Analyst,2025-08-28T10:00:12.808Z,3.799999952,5084,NULL,Maharashtra,data scientist
+ZS,10000,3.5,441,Pune,Decision Analytics Associate Consultant,2025-08-29T00:26:50.839Z,3.5,441,NULL,Maharashtra,data scientist
+PepsiCo,10000,3.700000048,21039,Hyderabad,Data Operations Engineer,2025-08-28T16:35:53.021Z,3.700000048,21038,NULL,Telangana,data scientist
+Aon Corporation,10000,3.700000048,5048,Bengaluru,Business Analyst,2025-08-28T17:23:38.833Z,3.700000048,5048,NULL,Karnataka,data scientist
+Sanofi,10000,4,5140,Hyderabad,Business Analyst - Workday Security (Unfilled),2025-08-29T05:01:29.283Z,4,5140,NULL,Telangana,data scientist
+Wayfair,10000,3,2563,Bengaluru,"Data Engineer II, Global Supply Technology",2025-08-28T17:48:19.753Z,3,2563,NULL,Karnataka,data scientist
+TELUS Digital -,10000,3.5,3198,Noida,MS SQL DB Developer,2025-08-28T10:11:26.008Z,3.5,3198,NULL,Uttar Pradesh,data scientist
+Ameriprise India,10000,3.700000048,1621,Noida,ServiceNow Business Analyst,2025-08-29T01:54:14.133Z,3.700000048,1621,NULL,Uttar Pradesh,data scientist
+FIS Global,10000,3.400000095,2796,Chennai,Business Systems Analyst Specialist,2025-08-28T17:24:12.772Z,3.400000095,2796,NULL,Tamil Nadu,data scientist
+Sanofi,10000,4,5140,Hyderabad,Sr. Specialist – Master Data Quality & Performance,2025-08-29T05:01:27.693Z,4,5140,NULL,Telangana,data scientist
+Amex,10000,4.099999905,9561,Bengaluru,Financial Systems Analyst I,2025-08-28T10:16:22.300Z,4.099999905,9561,NULL,Karnataka,data scientist
+Wayfair,10000,3,2563,Bengaluru,"Data Scientist II, Customer Technology",2025-08-28T10:43:45.345Z,3,2563,NULL,Karnataka,data scientist
+Accenture,10000,4,28094,Hyderabad,Data Architect,2025-08-28T16:46:16.253Z,4,28093,NULL,Telangana,data scientist
+Thermo Fisher Scientific,10000,3.400000095,5326,Bengaluru,Data Quality and Testing Analyst – CIS IT Reporting & DATASCAPE,2025-08-29T00:05:07.131Z,3.400000095,5326,NULL,Karnataka,data scientist
+Citi,10000,3.900000095,20341,Mumbai,Business Lead Analyst,2025-08-29T04:03:07.732Z,3.900000095,20341,NULL,Maharashtra,data scientist
+Cushman & Wakefield,10000,3.599999905,2267,Chennai,Data Governance Analyst,2025-08-28T10:22:49.856Z,3.599999905,2267,NULL,Tamil Nadu,data scientist
+Criteo,1001,4.099999905,83,Gurugram,Senior Data Analyst,2025-08-28T11:07:12.625Z,4.099999905,83,NULL,Haryana,data scientist
+Moody's,NULL,NULL,NULL,Bengaluru,Financial Data Specialist,2025-08-28T15:27:16.349Z,3.599999905,578,NULL,Karnataka,data scientist
+Abbott Laboratories,10000,3.900000095,6713,Mumbai,Database Developer - Mumbai,2025-08-28T21:31:22.303Z,3.900000095,6712,NULL,Maharashtra,data scientist
+Ecolab Inc.,10000,3.5,4184,Pune,Financial Analyst,2025-08-29T01:09:16.172Z,3.5,4184,NULL,Maharashtra,data scientist
+ConvergeOne,1001,2.700000048,111,Hyderabad,Business Analyst,2025-08-29T01:49:19.127Z,2.700000048,111,NULL,Telangana,data scientist
+FERRERO,10000,3.900000095,1161,Chennai,Regional Business Analyst South1,2025-08-28T13:58:49.869Z,3.900000095,1161,NULL,Tamil Nadu,data scientist
+Kyndryl,10000,3.599999905,283,Bengaluru,SQL Database Administrator,2025-08-28T14:31:12.412Z,3.599999905,283,NULL,Karnataka,data scientist
+Uber,10000,3.400000095,5204,Hyderabad,"Strategy & Analytics Associate, Global Embedded Insurance",2025-08-28T17:48:13.926Z,3.400000095,5204,NULL,Telangana,data scientist
+Kyndryl,10000,3.599999905,283,Bengaluru,Sr. Lead - Data Engineering - GCP,2025-08-28T20:30:38.028Z,3.599999905,283,NULL,Karnataka,data scientist
+Deloitte,10000,3.900000095,13896,Hyderabad,AML Analytics-Consultant,2025-08-28T13:04:04.084Z,3.900000095,13896,NULL,Telangana,data scientist
+NTT DATA,10000,3.5,4808,Noida,Business Sys. Analysis Senior Associate,2025-08-28T13:30:03.798Z,3.5,4808,NULL,Uttar Pradesh,data scientist
+Amex,10000,4.099999905,9561,Gurugram,Director - Data Governance & Management,2025-08-28T10:16:24.010Z,4.099999905,9561,NULL,Haryana,data scientist
+Ameriprise India,10000,3.700000048,1621,Noida,Senior Business Analyst,2025-08-29T01:54:16.140Z,3.700000048,1621,NULL,Uttar Pradesh,data scientist
+FIS Global,10000,3.400000095,2796,Hyderabad,Business Analyst Senior,2025-08-28T11:24:13.191Z,3.400000095,2796,NULL,Telangana,data scientist
+Dell,10000,4,11768,Bengaluru,Data Engineer Advisor,2025-08-28T10:21:26.132Z,4,11768,NULL,Karnataka,data scientist
+Ameriprise India,10000,3.700000048,1621,Noida,Lead Business Analyst,2025-08-29T01:54:14.195Z,3.700000048,1621,NULL,Uttar Pradesh,data scientist
+Target,10000,3.5,79140,Bengaluru,Sr Analyst PRICING OPERATIONS,2025-08-28T19:08:02.326Z,3.5,79135,NULL,Karnataka,data scientist
+RSM,10000,3.5,897,Hyderabad,"Supervisor, Data & Analytics",2025-08-28T10:33:35.951Z,3.5,897,NULL,Telangana,data scientist
+ADCI - Karnataka,10000,3.5,53749,Bengaluru,"Senior Financial Analyst, Amazon Payments FP&A",2025-08-28T14:51:39.857Z,3.5,53748,NULL,Karnataka,data scientist
+Sandoz,10000,4,704,Telangana,"Business Analyst, IT/OT & Historians",2025-08-28T18:24:37.455Z,4,704,NULL,NULL,data scientist
+TE Connectivity,10000,3.599999905,2364,Bengaluru,Senior Analyst Digital Product Data,2025-08-28T07:48:37.060Z,3.599999905,2364,NULL,Karnataka,data scientist
+Citi,10000,3.900000095,20341,Pune,Business Analytics Analyst,2025-08-29T04:03:08.291Z,3.900000095,20341,NULL,Maharashtra,data scientist
+"ABC Financial Services, Inc.",501,3.400000095,208,Hyderabad,Machine Learning Engineer,2025-08-28T10:18:00.290Z,3.400000095,208,NULL,Telangana,data scientist
+Sanofi,10000,4,5140,Hyderabad,Senior Analyst – Business Analytics,2025-08-29T05:01:27.853Z,4,5140,NULL,Telangana,data scientist
+Vodafone,10000,3.799999952,5709,Pune,Manager_Lead_Data Modeler_Pune,2025-08-28T09:52:08.070Z,3.799999952,5709,NULL,Maharashtra,data scientist
+Expedia Group,10000,3.799999952,1203,Bengaluru,"Data Scientist II, Product Analytics",2025-08-28T06:59:07.800Z,3.799999952,1203,NULL,Karnataka,data scientist
+Genpact,10000,3.799999952,7805,Noida,SQL-MT,2025-08-28T11:10:07.386Z,3.799999952,7805,NULL,Uttar Pradesh,data scientist
+Commonwealth Bank,10000,3.900000095,814,Bengaluru,Staff Data Engineer,2025-08-28T06:49:50.537Z,3.900000095,814,NULL,Karnataka,data scientist
+ExxonMobil,10000,3.900000095,5614,Bengaluru,Senior Data Engineer,2025-08-28T19:38:14.959Z,3.900000095,5614,NULL,Karnataka,data scientist
+NTT DATA,10000,3.5,4808,Gurugram,Finance & Accounting Analyst,2025-08-28T13:30:03.486Z,3.5,4808,NULL,Haryana,data scientist
+ConvergeOne,1001,2.700000048,111,Hyderabad,Data Center Engineer III,2025-08-29T01:48:57.731Z,2.700000048,111,NULL,Telangana,data scientist
+Amgen,10000,4,1840,Hyderabad,Sr. Associate - Data and Analytics,2025-08-28T11:32:29.686Z,4,1840,NULL,Telangana,data scientist
+Fulcrum Digital,1001,3.900000095,62,Pune,Data Engineer,2025-08-28T10:31:35.696Z,3.900000095,62,NULL,Maharashtra,data scientist
+Adobe,10000,4.199999809,858,Noida,Advanced Analytics & Reporting Analyst 3,2025-08-28T11:45:25.061Z,4.199999809,858,NULL,Uttar Pradesh,data scientist
+Amex,10000,4.099999905,9561,Gurugram,Senior Business Analytics II,2025-08-28T10:16:22.715Z,4.099999905,9561,NULL,Haryana,data scientist
+ACI Worldwide,1001,3.400000095,261,Bengaluru,Sr Business Analyst/Technical Writer,2025-08-28T06:48:18.765Z,3.400000095,261,NULL,Karnataka,data scientist
+ExxonMobil,10000,3.900000095,5614,Bengaluru,Data Architect,2025-08-28T19:38:14.970Z,3.900000095,5614,NULL,Karnataka,data scientist
+Alight,10000,3.200000048,1232,Gurugram,Business Technical Analyst / Scrum Master,2025-08-28T07:14:12.106Z,3.200000048,1232,NULL,Haryana,data scientist
+UBS,10000,3.799999952,2467,Pune,"Tech Data - AI/ML Engineer, Enterprise AI Suite",2025-08-28T13:10:42.918Z,3.799999952,2467,NULL,Maharashtra,data scientist
+Bosch Group,10000,4,7384,Bengaluru,Business Analyst/Functional Consultant HR (with AI/ML knowledge),2025-08-28T13:40:07.647Z,4,7384,NULL,Karnataka,data scientist
+BirlaSoft,1001,3.799999952,462,Pune,Business Analyst (ITSM),2025-08-28T21:42:21.614Z,3.799999952,462,NULL,Maharashtra,data scientist
+UBS,10000,3.799999952,2467,Mumbai,Senior Data Scientist,2025-08-28T07:08:51.895Z,3.799999952,2467,NULL,Maharashtra,data scientist
+Deloitte,10000,3.900000095,13896,Bengaluru,Consultant-Tableau,2025-08-28T13:03:35.983Z,3.900000095,13896,NULL,Karnataka,data scientist
+Ameriprise India,10000,3.700000048,1621,Gurugram,Sr Mgr-Data Scientist IND,2025-08-29T01:54:16.133Z,3.700000048,1621,NULL,Haryana,data scientist
+Luxoft,10000,4.5,665,Gurugram,Senior Business Analyst - Credit Risk,2025-08-28T12:21:36.939Z,4.5,665,NULL,Haryana,data scientist
+LSEG (London Stock Exchange Group),10000,3.700000048,383,Bengaluru,Machine Learning Engineer – Network Observability,2025-08-28T14:31:33.171Z,3.700000048,383,NULL,Karnataka,data scientist
+Genpact,10000,3.799999952,7805,Noida,Lead Consultant - Python + SQL,2025-08-28T17:06:30.160Z,3.799999952,7805,NULL,Uttar Pradesh,data scientist
+HSBC,10000,4,16009,Hyderabad,"Data Engineer/Associate Director, Software Engineering",2025-08-28T12:42:06.598Z,4,16009,NULL,Telangana,data scientist
+Infor,10000,3.700000048,751,Hyderabad,"Dev Business Analyst, Associate",2025-08-28T18:28:16.448Z,3.700000048,751,NULL,Telangana,data scientist
+PayU,1001,3.799999952,81,Gurugram,Senior Data Engineer,2025-08-28T14:36:22.609Z,3.799999952,81,NULL,Haryana,data scientist
+Dentsu,10000,3.599999905,355,Bengaluru,Data Management Architect,2025-08-28T14:13:30.317Z,3.599999905,355,NULL,Karnataka,data scientist
+Optum,10000,3.299999952,6942,Noida,Senior Data Scientist,2025-08-28T22:50:15.923Z,3.299999952,6942,NULL,Uttar Pradesh,data scientist
+Infogain,5001,3.5,214,Bengaluru,BI Architect,2025-08-29T05:03:21.855Z,3.5,214,NULL,Karnataka,data scientist
+Capgemini,10000,3.700000048,10501,Mumbai,Research Analyst,2025-08-28T10:16:44.630Z,3.700000048,10501,NULL,Maharashtra,data scientist
+Indegene,1001,3.5,68,Bengaluru,Senior Business Analyst,2025-08-29T04:59:17.104Z,3.5,68,NULL,Karnataka,data scientist
+Siemens Gamesa,10000,3.599999905,414,Bengaluru,Product Owner Data Architecture,2025-08-28T09:55:19.878Z,3.599999905,414,NULL,Karnataka,data scientist
+Epsilon,5001,3.400000095,338,Bengaluru,Senior Marketing Analyst,2025-08-28T06:49:14.903Z,3.400000095,338,NULL,Karnataka,data scientist
+Teva Pharmaceuticals,10000,3.599999905,1544,Bengaluru,Finance WFP Analyst II,2025-08-28T16:04:43.940Z,3.599999905,1544,NULL,Karnataka,data scientist
+"RealPage, Inc.",5001,3.299999952,575,Telangana,Data Engineer IV,2025-08-28T16:58:00.284Z,3.299999952,575,NULL,NULL,data scientist
+Oracle,10000,3.799999952,7423,India,Senior Member of Technical Staff -OCI Data Science,2025-08-29T01:16:09.401Z,3.799999952,7423,NULL,NULL,data scientist
+Universal Electronics Inc.,201,3,39,Bengaluru,SQL DBA,2025-08-28T12:17:04.963Z,3,39,NULL,Karnataka,data scientist
+Ericsson,10000,4.099999905,7207,Bengaluru,Data Scientist - Gen AI,2025-08-28T08:28:21.114Z,4.099999905,7207,NULL,Karnataka,data scientist
+Spenca Mineral,NULL,NULL,NULL,Navi Peth,Data analyst,2025-08-13T06:52:42.425Z,0,0,15000,"Solapur, Maharashtra",data analyst intern
+Genpact,10000,3.799999952,7805,Noida,Assistant manager - Pricing & Promotions,2025-08-28T11:08:32.809Z,3.799999952,7805,NULL,Uttar Pradesh,data scientist
+Dentsu,10000,3.599999905,355,Mumbai,Senior GCP Data Engineer,2025-08-28T14:13:20.752Z,3.599999905,355,NULL,Maharashtra,data scientist
+NTT DATA,10000,3.5,4808,Bengaluru,Oracle Cloud HCM Technical,2025-08-28T13:30:03.296Z,3.5,4808,NULL,Karnataka,data scientist
+ACV Auctions,1001,3.299999952,212,Chennai,Data Infrastructure Engineer III,2025-08-27T12:47:45.116Z,3.299999952,212,NULL,Tamil Nadu,data scientist
+Sanofi,10000,4,5140,Hyderabad,Manager - Business Analytics,2025-08-29T05:01:27.878Z,4,5140,NULL,Telangana,data scientist
+NTT DATA,10000,3.5,4808,Noida,Systems Engineering Specialist Advisor,2025-08-28T13:30:04.091Z,3.5,4808,NULL,Uttar Pradesh,data scientist
+Wayfair,10000,3,2563,Bengaluru,"Machine Learning Scientist II, Predictive Search & Guidance",2025-08-28T17:48:17.963Z,3,2563,NULL,Karnataka,data scientist
+Dentsu,10000,3.599999905,355,Thane,Sr. Data Engineer (Snowflake),2025-08-28T14:13:20.279Z,3.599999905,355,NULL,Maharashtra,data scientist
+Bajaj Finserv,NULL,3.799999952,88,Pune,"Business Analyst - IT, 3in1, SuperApp - PMO",2025-08-28T23:01:53.259Z,3.799999952,88,NULL,Maharashtra,data scientist
+The Bank of New York Mellon Corporation,10000,3.5,5451,Pune,"Senior Vice President, Data Management Engineer",2025-08-28T09:49:15.026Z,3.5,5451,NULL,Maharashtra,data scientist
+Meesho,1001,3.599999905,41,Bengaluru,Database Engineer II- Elasticsearch,2025-08-28T10:03:07.127Z,3.599999905,41,NULL,Karnataka,data scientist
+Commonwealth Bank,10000,3.900000095,814,Bengaluru,Senior Data Engineer,2025-08-28T06:49:52.429Z,3.900000095,814,NULL,Karnataka,data scientist
+Ameriprise India,10000,3.700000048,1621,Gurugram,Senior Manager - Quant Model Validator,2025-08-29T01:54:16.071Z,3.700000048,1621,NULL,Haryana,data scientist
+ADCI MAA 15 SEZ - K20,10000,3.5,53749,Chennai,"Associate Marketing Manager, RBS Retail Efficiency",2025-08-28T21:51:25.139Z,3.5,53748,NULL,Tamil Nadu,data scientist
+Wood Mackenzie India Private Limited,1001,4,53,Gurugram,Data Associate - Upstream and Carbon Management Data,2025-08-28T12:00:30.164Z,4,53,NULL,Haryana,data scientist
+United Airlines,10000,3.900000095,4823,Gurugram,Associate Analyst - Tech Ops Business Intelligence,2025-08-28T13:55:15.173Z,3.900000095,4823,NULL,Haryana,data scientist
+Bajaj Finserv,NULL,3.799999952,88,Pune,"Senior Business Analyst - IT, 3in1, SuperApp - PMO",2025-08-28T23:05:39.057Z,3.799999952,88,NULL,Maharashtra,data scientist
+Webs Optimization Software Solution,11,1,1,Ahmedabad,Junior Business Analyst (Fresher)| Ahmedabad (Work from Office),2025-07-17T11:00:37.371Z,1,1,NULL,Gujarat,data analyst intern
+Paexskin Solutions,NULL,NULL,NULL,Pune,Intern Quality Analyst,2025-07-30T13:21:37.821Z,0,0,NULL,Maharashtra,data analyst intern
+Paarsh E-Learning,NULL,NULL,NULL,Indiranagar,Data Analyst Intern,2025-08-11T11:45:30.095Z,0,0,12000,"Nashik, Maharashtra",data analyst intern
+Leap Finance,NULL,5,1,Bengaluru,User Research Intern,2025-07-18T09:22:34.752Z,5,1,NULL,Karnataka,data analyst intern
+PureSpectrum,NULL,5,1,Hyderabad,"Senior Data Analyst, Data Processing",2025-07-17T21:55:58.000Z,5,1,NULL,Telangana,data analyst intern
+Discover Dollar,11,NULL,NULL,Bengaluru,Analytics/AI Engineer Intern,2025-07-01T09:19:05.580Z,0,0,NULL,Karnataka,data analyst intern
+MiQ Digital,NULL,3,7,Bengaluru,Senior Analyst,2025-07-09T12:30:28.175Z,3,7,NULL,Karnataka,data analyst intern
+digicart India,NULL,NULL,NULL,Delhi,Data Analyst,2025-08-23T13:02:14.497Z,0,0,17500,Delhi,data analyst intern
+Analytics Vidhya,11,4.199999809,11,Gurugram,Data Analyst Intern,2025-07-03T12:01:43.186Z,4.199999809,11,NULL,Haryana,data analyst intern
+MG Captures,NULL,NULL,NULL,Surat,AI intern,2025-08-14T06:52:43.286Z,0,0,17500,Gujarat,data analyst intern
+OakNorth Bank,NULL,3.400000095,5,Bengaluru,Data Science Analyst,2025-07-11T05:17:57.465Z,3.400000095,5,NULL,Karnataka,data analyst intern
+Novanectar Services private limited,NULL,NULL,NULL,Dehradun,Data Analyst Intern,2025-08-22T12:05:42.975Z,0,0,NULL,Uttarakhand,data analyst intern
+Solverminds Solutions and Technologies,201,3.400000095,7,Siruseri,Operation Research Analyst,2025-08-13T11:27:35.149Z,3.400000095,7,NULL,"Chennai, Tamil Nadu",data analyst intern
+Orbit Skyline Pvt. Ltd.,NULL,NULL,NULL,Mohali,Supply Chain Analyst Intern,2025-08-06T11:48:31.960Z,0,0,20000,Punjab,data analyst intern
+IndustryARC,51,3,13,Remote,Research Analyst,2025-01-07T12:39:47.254Z,3,13,20000,NULL,data analyst intern
+Faspin Technologies Pvt. Ltd.,NULL,4.5,39,Mohali,Senior Data Analyst,2025-08-28T04:25:09.783Z,4.5,39,25000,Punjab,data analyst
+SoulPage IT Solutions,11,4,3,Hyderabad,Data Scientist Intern,2024-11-24T09:51:54.607Z,4,3,20000,Telangana,data analyst intern
+2CentsCapital,NULL,NULL,NULL,Remote,Quant Analyst Intern,2025-07-27T16:56:43.672Z,0,0,NULL,NULL,data analyst intern
+Wells Fargo,10000,3.599999905,47318,Bengaluru,Intern Analyst- Advanced Data & Analytics Program,2025-08-29T08:45:15.457Z,3.599999905,47317,NULL,Karnataka,data analyst intern
+EnactOn Technologies,11,5,1,Surat,Business Analyst,2024-11-24T13:09:43.884Z,5,1,42000,Gujarat,data analyst intern
+Centotech Services Pvt Ltd,NULL,NULL,NULL,Gachibowli,Business Research analyst Intern,2025-08-05T04:42:00.130Z,0,0,NULL,"Hyderabad, Telangana",data analyst intern
+2CentsCapital,NULL,NULL,NULL,Remote,Derivatives Analyst Intern,2025-07-27T16:57:19.196Z,0,0,NULL,NULL,data analyst intern
+Technocrats Horizons,11,NULL,NULL,Hyderabad,Business Analyst Intern,2025-08-28T06:51:24.438Z,0,0,NULL,Telangana,data analyst intern
+NIIT Foundation,51,3.700000048,50,Ahmedabad,Data Analytics Trainer,2025-08-27T10:45:07.468Z,3.700000048,50,475000,Gujarat,data analyst
+NIIT Foundation,51,3.700000048,50,Ahmedabad,Data Analytics Trainer,2025-08-27T10:45:07.468Z,3.700000048,50,475000,Gujarat,data analyst
+NIIT Foundation,51,3.700000048,50,Ahmedabad,Data Analytics Trainer,2025-08-27T10:45:07.468Z,3.700000048,50,10000,Gujarat,data analyst
+Dextrasys,NULL,5,2,Tiruchchirappalli,Business Analyst & Designers,2025-02-17T21:11:30.446Z,5,2,NULL,Tamil Nadu,data analyst intern
+estrrado,NULL,NULL,NULL,Technopark,Business Analyst Intern,2025-04-28T09:26:43.546Z,0,0,NULL,"Thiruvananthapuram, Kerala",data analyst intern
+"Council on Energy, Environment and Water",2,3.700000048,3,Delhi,Research Intern – Energy Transitions,2024-11-30T10:24:11.508Z,3.700000048,3,NULL,Delhi,data analyst intern
+Numerator,5001,3.400000095,97,India,Sr. Business Analyst,2025-03-13T10:16:52.395Z,3.400000095,97,NULL,NULL,data analyst intern
+PhonePe,NULL,3.900000095,68,Bengaluru,"Business Intelligence, Associate Manager",2025-05-19T16:56:35.733Z,3.900000095,68,NULL,Karnataka,data analyst intern
+Rivan Solutions,NULL,5,2,Secunderabad,Research Analyst - Intern,2024-11-30T22:53:45.879Z,5,2,NULL,Telangana,data analyst intern
+Bikham Information Technology,NULL,4.400000095,5,Mohali,Business Analyst /Interns,2025-01-21T09:32:37.492Z,4.400000095,5,NULL,Punjab,data analyst intern
+Katayani Organics,NULL,NULL,NULL,Arera Colony,Data Analyst Intern,2025-08-05T05:35:52.229Z,0,0,10000,"Bhopal, Madhya Pradesh",data analyst intern
+Numerator,5001,3.400000095,97,Vadodara,QC Data Analyst - Production Validation,2025-07-04T16:17:10.445Z,3.400000095,97,NULL,Gujarat,data analyst intern
+"Council on Energy, Environment and Water",2,3.700000048,3,Delhi,Programme Lead/Senior Programme Lead – Technology Futures,2024-11-28T11:55:33.150Z,3.700000048,3,NULL,Delhi,data analyst intern
+CIS,NULL,3.5,150,Indore,Business Analyst Intern,2024-12-10T14:47:02.385Z,3.5,150,NULL,Madhya Pradesh,data analyst intern
+Versor Investments,NULL,NULL,NULL,India,Data Analyst Intern,2024-11-24T20:43:03.127Z,0,0,NULL,NULL,data analyst intern
+Pegasystems,1001,3.700000048,90,Hyderabad,"Senior Application Quality Engineer, Financial Services Smart Apps",2025-06-23T14:18:07.415Z,3.700000048,90,NULL,Telangana,data analyst intern
+SuvarnamERP Bussiness Solution,NULL,NULL,NULL,Khandari,Data Analyst,2025-08-23T10:12:23.947Z,0,0,10000,"Agra, Uttar Pradesh",data analyst intern
+Infilect,NULL,NULL,NULL,Bengaluru,Business Analytics Intern,2025-06-20T09:25:04.950Z,0,0,NULL,Karnataka,data analyst intern
+MiQ Digital,NULL,3,7,Bengaluru,Senior Data Scientist,2025-07-21T12:30:03.002Z,3,7,NULL,Karnataka,data analyst intern
+PhonePe,NULL,3.900000095,68,Bengaluru,Business Operations Analyst,2025-06-20T16:56:03.236Z,3.900000095,68,NULL,Karnataka,data analyst intern
+Accusoil Agri technologies PVT LTD,NULL,2,1,Ajmer Road,Business Analyst Internship,2025-08-11T05:48:41.428Z,2,1,10000,"Jaipur, Rajasthan",data analyst intern
+PolyMinds Labs Private Limited,NULL,NULL,NULL,Jaipur City,Data Analytics Intern - GitHub Repository Analysis,2025-08-15T14:27:59.888Z,0,0,10000,"Jaipur, Rajasthan",data analyst intern
+Eninrac Consulting,NULL,NULL,NULL,Noida,"Intern – Research & Consulting (EV, Economics/Statistics, Power & Renewable Sectors)",2025-06-02T10:41:54.729Z,0,0,NULL,Uttar Pradesh,data analyst intern
+JustFence,NULL,NULL,NULL,Basavanagudi,Process Analyst - Intern,2025-08-08T14:22:25.921Z,0,0,10000,"Bengaluru, Karnataka",data analyst intern
+Wikpolt Softwares,NULL,NULL,NULL,Kanniyakumari,Business Analyst Intern,2025-08-18T08:17:29.372Z,0,0,NULL,Tamil Nadu,data analyst intern
+Creatik IT solutions LLP,NULL,NULL,NULL,Jaipur,Data Analyst Intern,2025-08-07T08:27:58.243Z,0,0,10000,Rajasthan,data analyst intern
+PhonePe,NULL,3.900000095,68,Bengaluru,"Senior Business Operations Analyst, Payments",2025-08-19T10:55:57.210Z,3.900000095,68,NULL,Karnataka,data analyst intern
+Technaureus Info Solutions,11,NULL,NULL,Calicut,Business Analyst (Intern),2025-06-18T06:47:49.177Z,0,0,NULL,Kerala,data analyst intern
+OakNorth Bank,NULL,3.400000095,5,Bengaluru,Senior Data Science Analyst,2025-07-11T05:17:55.853Z,3.400000095,5,NULL,Karnataka,data analyst intern
+Physiocares,NULL,NULL,NULL,Ahmedabad,Business Analyst Intern,2025-08-22T05:45:41.552Z,0,0,7000,Gujarat,data analyst intern
+Bentork,NULL,NULL,NULL,Pune,Research and Development Intern (Thermal Analyst),2024-11-23T05:14:51.352Z,0,0,NULL,Maharashtra,data analyst intern
+ioTech Designs,11,NULL,NULL,Uttar Pradesh,Business Analyst Intern,2024-11-23T00:43:35.206Z,0,0,NULL,NULL,data analyst intern
+Creatik IT Solutions LLP,NULL,NULL,NULL,Gopalpura,Business Analyst Intern,2025-08-07T06:07:54.307Z,0,0,7000,"Jaipur, Rajasthan",data analyst intern
+EduKyu Pvt Ltd,NULL,4,1,Noida,Content Research Analyst Intern,2025-08-23T13:06:45.254Z,4,1,NULL,Uttar Pradesh,data analyst intern
+TMK Computers,NULL,NULL,NULL,Wagholi,Data Analyst Intern,2025-08-26T06:19:08.740Z,0,0,5000,"Pune, Maharashtra",data analyst intern
+Pin Blooms Technology,NULL,NULL,NULL,Jaipur,Business Analyst Intern,2025-03-12T14:20:59.506Z,0,0,NULL,Rajasthan,data analyst intern
+Techsmew Technologies,NULL,NULL,NULL,Coimbatore,Business Analyst Intern,2025-08-18T05:54:08.181Z,0,0,NULL,Tamil Nadu,data analyst intern
+Infilect,NULL,NULL,NULL,Bengaluru,AI Intern,2025-08-11T07:07:04.097Z,0,0,NULL,Karnataka,data analyst intern
+FranchiseBazar,NULL,NULL,NULL,Bengaluru,Business Analyst Intern,2024-11-24T10:09:01.335Z,0,0,5000,Karnataka,data analyst intern
+CrunkMart Pvt Ltd,NULL,NULL,NULL,Mohali,Artificial Intelligence,2025-08-13T12:31:16.252Z,0,0,NULL,Punjab,data analyst intern
+prwatech technologies,51,NULL,NULL,Pune,Data Science Intern,2025-08-15T08:54:36.147Z,0,0,NULL,Maharashtra,data analyst intern
+Ezyschooling,11,NULL,NULL,Shahdara,Data Intern,2025-08-11T12:54:26.230Z,0,0,5000,"Delhi, Delhi",data analyst intern
+ARCZON,NULL,NULL,NULL,Tiruchchirappalli,Data Analytics with Python – Paid Training + Free Internship,2025-08-09T11:11:16.776Z,0,0,NULL,Tamil Nadu,data analyst intern
+Shyena Tech Yarns Pvt Ltd,NULL,NULL,NULL,Shivajinagar,Data science intern,2025-08-07T06:11:26.461Z,0,0,5000,"Pune, Maharashtra",data analyst intern
+ReachSkyline,NULL,4,1,Teynampet,AI-Powered Digital Strategy Intern (Students),2025-08-07T07:33:18.059Z,4,1,5000,"Chennai, Tamil Nadu",data analyst intern
+Shyena Tech Yarns Pvt Ltd,NULL,NULL,NULL,Pune,Data Engineer Intern,2025-08-02T15:26:27.912Z,0,0,5000,Maharashtra,data analyst intern
+ACME ADVERTISING CO,NULL,NULL,NULL,Rohini,Market Research Analyst Intern,2025-08-14T08:26:50.106Z,0,0,NULL,"Delhi, Delhi",data analyst intern
+Vyrian,11,4.699999809,7,Indore,Technical Data Analyst,2025-01-24T15:56:29.553Z,4.699999809,7,NULL,Madhya Pradesh,data analyst intern
+FloData Analytics,NULL,NULL,NULL,Punjabi Bagh,Data Science Intern,2025-08-13T09:50:34.010Z,0,0,NULL,"Delhi, Delhi",data analyst intern
+IRIS Business Services Ltd,201,3.700000048,55,Navi Mumbai,Data Collection Intern,2025-08-14T09:49:27.191Z,3.700000048,55,NULL,Maharashtra,data analyst intern
+CEREBULB INDIA PRIVATE LIMITED,NULL,NULL,NULL,Gandhinagar,Data Science Intern,2025-08-04T07:49:18.890Z,0,0,10000,Gujarat,data analyst intern
+Mitash Digital,NULL,NULL,NULL,Mansarovar,Business Analyst( IT),2025-08-14T05:49:05.545Z,0,0,10000,"Jaipur, Rajasthan",data analyst intern
+ServoEdge Technologies,NULL,NULL,NULL,Noida,AI/ML Intern,2025-08-13T08:10:00.594Z,0,0,NULL,Uttar Pradesh,data analyst intern
+Aknamed,NULL,NULL,NULL,Karnataka,Intern,2025-08-08T11:55:15.443Z,0,0,NULL,NULL,data analyst intern
+Optimspace,NULL,NULL,NULL,Remote,Data Analyst Intern,2025-08-08T18:29:33.332Z,0,0,10000,NULL,data analyst intern
+Optimspace,NULL,NULL,NULL,Remote,Business Analyst Intern,2025-08-08T18:29:33.059Z,0,0,10000,NULL,data analyst intern
+Optimspace,NULL,NULL,NULL,Remote,Machine Learning Intern,2025-08-08T18:29:33.118Z,0,0,10000,NULL,data analyst intern
+UNBOXROBOTICS LABS PRIVATE LIMITED,NULL,5,1,Pune,Product Management Intern,2025-08-11T05:38:54.875Z,5,1,NULL,Maharashtra,data analyst intern
+Optimspace,NULL,NULL,NULL,Remote,Data Science Intern,2025-08-08T18:29:31.977Z,0,0,10000,NULL,data analyst intern
+Humancare World Wide Pvt Ltd,NULL,NULL,NULL,Mumbai,Operations Business Analyst Intern,2025-07-17T08:43:36.109Z,0,0,10000,Maharashtra,data analyst intern
+Color Papers India Private Limited,NULL,NULL,NULL,Mira Road,Data Analyst Intern,2025-08-14T07:12:26.359Z,0,0,10000,"Mumbai, Maharashtra",data analyst intern
+Callisto IT Solutions,11,NULL,NULL,Rameshwari,Data Scientist Intern - 6 months internship,2025-08-12T13:28:45.179Z,0,0,8000,"Nagpur, Maharashtra",data analyst intern
+NAVATIES SOLUTIONS PRIVATE LIMITED,NULL,NULL,NULL,Sanjay Nagar,Artificial Intelligence (AI) + Python Intern,2025-08-03T16:48:17.986Z,0,0,8000,"Bengaluru, Karnataka",data analyst intern
+ProArch,NULL,2.799999952,5,Bengaluru,AI & Analytics Engineer,2025-08-07T10:04:47.842Z,2.799999952,5,NULL,Karnataka,data analyst intern
+QUEST INNOVATIVE SOLUTIONS,51,3.900000095,34,Kochi,Data Analytics with GEN AI Internship,2025-08-07T09:55:27.194Z,3.900000095,34,NULL,Kerala,data analyst intern
+Smart Data Solutions LLC,501,2.799999952,86,Perungudi,Intern AI Engineer,2025-08-08T15:52:26.720Z,2.799999952,86,NULL,"Chennai, Tamil Nadu",data analyst intern
+Impactree Data Technologies,NULL,NULL,NULL,Remote,Presales & Market Research Intern,2025-08-14T06:21:17.460Z,0,0,10000,NULL,data analyst intern
+Avengersoft solutions Pvt Ltd (Dentsoftware),NULL,NULL,NULL,Angamali,Business Analyst - Intern,2025-08-07T04:25:46.455Z,0,0,15000,Kerala,data analyst intern
+Kyyba Inc,201,3.799999952,39,Bengaluru,Lead Data Engineer (Individual Contributor),2025-08-27T13:49:24.253Z,3.799999952,39,200000,Karnataka,data scientist
+EY,10000,3.900000095,10474,Kochi,DPS - DSE - SharePoint Developer - Intern,2025-08-07T22:41:30.364Z,3.900000095,10474,NULL,Kerala,data analyst intern
+Digival Solutions,NULL,NULL,NULL,Chennai,Business Analyst Intern,2025-08-11T06:45:29.465Z,0,0,8000,Tamil Nadu,data analyst intern
+SatSure Analytics India,NULL,NULL,NULL,Bengaluru,Data Science Intern,2025-01-21T14:17:08.762Z,0,0,NULL,Karnataka,data analyst intern
+MNJ Software,NULL,NULL,NULL,Remote,Data Science - Intern,2024-11-23T01:23:49.375Z,0,0,NULL,NULL,data analyst intern
+TechFlitter Solutions Pvt. Ltd.,2,NULL,NULL,Ahmedabad,Data Entry Intern,2025-08-06T11:00:57.143Z,0,0,10000,Gujarat,data analyst intern
+Medtek.AI,NULL,NULL,NULL,Nagar,DATA SCIENCE INTERN,2024-11-29T22:12:24.375Z,0,0,NULL,Uttar Pradesh,data analyst intern
+Antarctica,NULL,5,4,Mumbai,Research & Sustainability Analyst,2025-08-19T09:48:05.809Z,5,4,12000,Maharashtra,data analyst intern
+Wissen Baum,NULL,NULL,NULL,Pune,Data Analytics Intern,2024-11-25T11:45:39.899Z,0,0,NULL,Maharashtra,data analyst intern
+Stylumia Intelligence Technology,NULL,NULL,NULL,Bengaluru,Data Scraping Engineer (Intern),2024-11-23T09:18:28.437Z,0,0,NULL,Karnataka,data analyst intern
+Creatik IT Solutions,NULL,NULL,NULL,Gopalpura,AI intern,2025-08-07T07:02:47.849Z,0,0,5000,"Jaipur, Rajasthan",data analyst intern
+Micromatic Grinding,NULL,NULL,NULL,Bengaluru,R&D Intern – Data Analysis,2024-11-29T09:15:52.254Z,0,0,NULL,Karnataka,data analyst intern
