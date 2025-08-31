@@ -1,8 +1,8 @@
-#📌 **Project Title**
+# **Project Title**
 
 Data Science Job Market Analysis in India (Indeed Web Scraping + SQL + Tableau)  
 
-#📖 **Overview**
+# **Overview**
 
 When searching for internships, I realized how difficult it was to find reliable job postings in India’s data science domain. Many listings are fake, scattered, or lack salary transparency. While global data exists, I wanted to analyze the Indian job market for Data Analysts, Data Scientists, and related internships.
 
@@ -16,7 +16,7 @@ Final dataset: ~2000 scraped → cleaned to 800 job postings
 [Tableau public link](https://public.tableau.com/views/DataScienceJobMarketAnalysisinIndia/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 
-#🔍 **Stakeholder Questions Addressed**  
+# **Stakeholder Questions Addressed**  
 
 Job Market Overview  
 Job postings per role (Analyst vs Scientist vs Intern)  
@@ -37,7 +37,7 @@ Geographic Insights
 Highest-paying states/cities  
 Internship concentration by geography  
 
-#📊 **Visualizations (Tableau)**
+# **Visualizations (Tableau)**
 
 Bar Chart → Job postings per role  
 Map → Job openings by state  
@@ -48,13 +48,13 @@ Bar Chart → Average salary by role
 Map → Average salary by state  
 Heatmap → Internships offered by company  
 
-#🛠 **Tools Used**
+# **Tools Used**
 
 Python (BeautifulSoup, Requests) – Web scraping  
 MS SQL Server – Cleaning & preprocessing (~2000 → 800 rows)  
 Tableau – Data visualization & dashboarding  
 
-#📈 **Key Insights**
+# **Key Insights**
 
 Data Analyst roles dominate postings, but Data Scientist roles show higher average salaries.  
 Bangalore, Hyderabad, and Pune lead in job opportunities.  
