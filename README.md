@@ -1,8 +1,8 @@
-📌 Project Title
+#📌 Project Title
 
 Data Science Job Market Analysis in India (Indeed Web Scraping + SQL + Tableau)
 
-📖 Overview
+#📖 Overview
 
 When searching for internships, I realized how difficult it was to find reliable job postings in India’s data science domain. Many listings are fake, scattered, or lack salary transparency. While global data exists, I wanted to analyze the Indian job market for Data Analysts, Data Scientists, and related internships.
 
@@ -16,7 +16,7 @@ Tableau for visualization
 
 Final dataset: ~2000 scraped → cleaned to 800 job postings
 
-🔍 Stakeholder Questions Addressed
+#🔍 Stakeholder Questions Addressed
 
 Job Market Overview
 
@@ -54,7 +54,7 @@ Highest-paying states/cities
 
 Internship concentration by geography
 
-📊 Visualizations (Tableau)
+#📊 Visualizations (Tableau)
 
 Bar Chart → Job postings per role
 
@@ -72,7 +72,7 @@ Map → Average salary by state
 
 Heatmap → Internships offered by company
 
-🛠 Tools Used
+#🛠 Tools Used
 
 Python (BeautifulSoup, Requests) – Web scraping
 
@@ -80,7 +80,7 @@ MS SQL Server – Cleaning & preprocessing (~2000 → 800 rows)
 
 Tableau – Data visualization & dashboarding
 
-📈 Key Insights
+#📈 Key Insights
 
 Data Analyst roles dominate postings, but Data Scientist roles show higher average salaries.
 
