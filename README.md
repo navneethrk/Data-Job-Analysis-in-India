@@ -12,6 +12,10 @@ SQL (MS SQL Server) for cleaning & preprocessing
 Tableau for visualization  
 Final dataset: ~2000 scraped → cleaned to 800 job postings  
 
+# **Visualisation link**
+[Link Text](https://public.tableau.com/views/DataScienceJobMarketAnalysisinIndia/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+
 #🔍 **Stakeholder Questions Addressed**  
 
 Job Market Overview  
