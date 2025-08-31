@@ -50,7 +50,7 @@ Heatmap → Internships offered by company
 
 # **Tools Used**
 
-Python (BeautifulSoup, Requests) – Web scraping  
+Online API – Web scraping  
 MS SQL Server – Cleaning & preprocessing (~2000 → 800 rows)  
 Tableau – Data visualization & dashboarding  
 
