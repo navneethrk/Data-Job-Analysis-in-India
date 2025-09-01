@@ -48,6 +48,8 @@ Bar Chart → Average salary by role
 Map → Average salary by state  
 Heatmap → Internships offered by company  
 
+![Alt text](tableau.png)
+
 # **Tools Used**
 
 Online API – Web scraping  
